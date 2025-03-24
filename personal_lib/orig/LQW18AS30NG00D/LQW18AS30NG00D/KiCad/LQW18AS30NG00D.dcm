@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LQW18AS30NG00D
+D LQW18AS_00 Series Inductor 30nH +/-2% 0603 (1608)
+K
+F https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0111.pdf
+$ENDCMP
+#
+#End Doc Library

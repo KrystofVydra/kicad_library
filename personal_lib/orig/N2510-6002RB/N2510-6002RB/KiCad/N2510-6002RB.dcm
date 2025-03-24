@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP N2510-6002RB
+D 3M 10W ST BOX HDR CLASS 2 3M 2500 Series, 2.54mm Pitch 10 Way 2 Row Straight PCB Header, Solder Termination, 2A
+K
+F http://multimedia.3m.com/mws/media/330367O/3mtm-100-in-4-wall-hdr-rohs-lp-straightra-hitemp-ts0770.pdf?fn=TS0770.pdf
+$ENDCMP
+#
+#End Doc Library

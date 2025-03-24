@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "LQW18AS10NG0CD"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "LQW18AS10NG0CD")
+        (spec "default")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CMS04_TE12L,Q,M_
+D Schottky Diodes & Rectifiers Diode Schottky 30V 5A
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA23/1390121.pdf
+$ENDCMP
+#
+#End Doc Library

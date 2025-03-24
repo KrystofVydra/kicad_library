@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 21033812824
+D M12 X-code 8pin female straight pcb connector, SMT, w/ transformer, 1Gbit, shielded, PoE enabled (w/ housing 21033012006)
+K
+F https://b2b.harting.com/files/download/PRD/PDF_DS/PDF_DS_21033810102.pdf
+$ENDCMP
+#
+#End Doc Library

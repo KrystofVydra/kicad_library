@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NX3215SA-32.768KHZ-EXS00A-MU00525
+D CRYSTAL 32.768KHZ 6PF SMD
+K
+F https://www.ndk.com/en/products/search/crystal/1188854_1494.html
+$ENDCMP
+#
+#End Doc Library

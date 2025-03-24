@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX481ESA+
+D MAX481ESA+, Line Transceiver, RS-485, RS-422 2.5Mbit/s Differential, 4.75  5.25 V, 8-Pin SOIC
+K
+F http://datasheets.maximintegrated.com/en/ds/MAX1487-MAX491.pdf
+$ENDCMP
+#
+#End Doc Library

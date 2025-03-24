@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-31012024-980073";"";
+"REFERENCE";"533981071";"";
+"TraceParts.PartTitle";"PicoBlade";"";
+"TraceParts.InstanceId";"90-31012024-9800732N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"1.25mm Pitch, PicoBlade PCB Header, Single Row, Vertical, Surface Mount,  Tin (Sn) Plating, Friction Lock, 10 Circuits, Tape and Reel, 0.60mm PC Tail Length";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.5";"";

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RFD3055LESM9A
+D Peak Current vs Pulse Width Curve; Temperature Compensating PSPICE Model; Related Literature - TB334 Guidelines for Soldering Surface MountComponents to PC Boards; UIS Rating Curve; 11A, 60V; rDS(ON)= 0.107
+K
+F https://www.onsemi.com/pub/Collateral/RFD3055LESM-D.pdf
+$ENDCMP
+#
+#End Doc Library

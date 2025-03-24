@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XAL1010-152MED
+D Fixed Inductors 1.5uH Shld 20% 40.5A 1.76mOhms AECQ2
+K
+F https://www.mouser.de/datasheet/2/597/xal1010-270716.pdf
+$ENDCMP
+#
+#End Doc Library

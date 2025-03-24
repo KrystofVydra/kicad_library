@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ULRG3-2512-R0025-F-LF-SLT
+D Current Sense Resistors - SMD Metal Element CS Resistor AEC-Q200
+K
+F https://www.ttelectronics.com/TTElectronics/media/ProductFiles/Datasheet/ULR.pdf
+$ENDCMP
+#
+#End Doc Library

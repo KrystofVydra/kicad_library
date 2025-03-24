@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32L496VGT3
+D STMICROELECTRONICS - STM32L496VGT3 - MCU, ARM CORTEX-M4, 80MHZ, LQFP-100
+K
+F https://www.st.com/resource/en/datasheet/stm32l496ag.pdf
+$ENDCMP
+#
+#End Doc Library

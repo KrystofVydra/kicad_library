@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KO_EELP41.22-Q1S2-25-A8J8-020-R18
+D LED, InGaAlP, Orange, SMD, 0603 [1608 Metric], 20 mA, 2 V, 605 nm
+K
+F https://look.ams-osram.com/m/6069422f8e1c569f/original/KO-EELP41-22.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1959911"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-10-01-12:21:36)
+    (utime 2025-01-03-15:31:59)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "LQW18AS30NG00D")
+)
+
+
+(pinAssign "ECS_1959911"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-10-01-12:21:36)
+    (utime 2025-01-03-15:31:59)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1959911")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "LQW18AS30NG00D")
+)
+
+
+(part "LQW18AS30NG00D"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-10-01-12:21:36)
+    (utime 2025-01-03-15:31:59)
+    (packageRef "LQW18AS30NG00D")
+    (pinAssignRef "ECS_1959911")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "LQW18AS_00 Series Inductor 30nH +/-2% 0603 (1608)")
+    (property "Mouser_Part_Number" "81-LQW18AS30NG00D")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/LQW18AS30NG00D?qs=Ey7%2FXF42M3dPpThe3FKvZw%3D%3D")
+    (property "Manufacturer_Name" "Murata Electronics")
+    (property "Manufacturer_Part_Number" "LQW18AS30NG00D")
+    (property "Datasheet_Link" "https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0111.pdf")
+    (property "compAreaTopHeight" 1)
+)
+
+

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XAL7070-332MEC
+D Power Inductors - SMD 3.3uH Shld 20% 15.1A 9.42mOhms AECQ2
+K
+F https://www.coilcraft.com/getmedia/1ba55433-bcc8-4838-9b21-382f497e12e0/xal7070.pdf
+$ENDCMP
+#
+#End Doc Library
