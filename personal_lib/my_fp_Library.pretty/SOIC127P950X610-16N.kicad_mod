@@ -301,7 +301,7 @@
 		(uuid "71dfd136-4976-41c6-8381-db229d9b5869")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/SM91076L-E/SM91076L-E/KiCad/SM91076L-E.stp"
+	(model "C:/kicad_libs/personal_lib/3D/SM91076L-E.stp"
 		(offset
 			(xyz 0 0 0)
 		)

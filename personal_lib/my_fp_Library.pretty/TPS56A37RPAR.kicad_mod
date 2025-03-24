@@ -355,7 +355,7 @@
 		(uuid "42c82a77-6eeb-4f83-8ee5-a26359ed8433")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/TPS56837RPAR/TPS56837RPAR/KiCad/TPS56837RPAR.stp"
+	(model "C:/kicad_libs/personal_lib/3D/TPS56837RPAR.stp"
 		(offset
 			(xyz -0.009999999626 0 0)
 		)

@@ -220,7 +220,7 @@
 		(uuid "61c2c9c5-d946-4bc5-a98a-ceacc6ff3155")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/PinHeader_1x04_P2.54mm_Vertical v2_v2.step"
+	(model "C:/kicad_libs/personal_lib/3D/PinHeader_1x04_P2.54mm_Vertical v2_v2.step"
 		(offset
 			(xyz -2.47 9.23 -1.5)
 		)

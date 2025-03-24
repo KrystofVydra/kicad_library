@@ -167,7 +167,7 @@
 		(uuid "289690e3-d326-441a-967b-a96b0b3e4698")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/ULRG3-2512-R0025-F-LF-SLT/ULRG3-2512-R0025-F-LF-SLT/KiCad/ULRG3-2512-R0025-F-LF-SLT.stp"
+	(model "C:/kicad_libs/personal_lib/3D/ULRG3-2512-R0025-F-LF-SLT.stp"
 		(offset
 			(xyz 0 0 0)
 		)

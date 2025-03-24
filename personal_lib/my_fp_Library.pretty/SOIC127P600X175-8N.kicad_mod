@@ -253,7 +253,7 @@
 		(uuid "fc169062-7c71-464e-968c-67588128c362")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/MAX481ESA+/MAX481ESA+/KiCad/MAX481ESA+.stp"
+	(model "C:/kicad_libs/personal_lib/3D/MAX481ESA+.stp"
 		(offset
 			(xyz 0 0 0)
 		)

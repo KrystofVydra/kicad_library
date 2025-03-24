@@ -187,7 +187,7 @@
 		(uuid "fb612aba-b499-42bc-ab26-ef15659d12f2")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/CMS04_TE12L,Q,M_/CMS04_TE12L,Q,M_/KiCad/CMS04_TE12L,Q,M_.stp"
+	(model "C:/kicad_libs/personal_lib/3D/CMS04_TE12L,Q,M_.stp"
 		(offset
 			(xyz 0 0 0)
 		)

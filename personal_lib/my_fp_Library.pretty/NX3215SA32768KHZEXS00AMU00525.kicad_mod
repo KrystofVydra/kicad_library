@@ -220,7 +220,7 @@
 		(uuid "065a90f7-9fc5-41a4-9dee-7b571b657f73")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/NX3215SA-32.768KHZ-EXS00A-MU00525/NX3215SA-32.768KHZ-EXS00A-MU00525/KiCad/NX3215SA-32.768KHZ-EXS00A-MU00525.stp"
+	(model "C:/kicad_libs/personal_lib/3D/NX3215SA-32.768KHZ-EXS00A-MU00525.stp"
 		(offset
 			(xyz 0 0 0)
 		)

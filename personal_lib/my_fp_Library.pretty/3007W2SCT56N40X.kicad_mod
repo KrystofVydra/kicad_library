@@ -329,7 +329,7 @@
 		(uuid "63585448-3e8e-465d-915e-9ddee2f13c5c")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/LIB_3007W2SCT56N40X/3007W2SCT56N40X/KiCad/CBD7W2F57R7N0X_AA.stp"
+	(model "C:/kicad_libs/personal_lib/3D/CBD7W2F57R7N0X_AA.stp"
 		(offset
 			(xyz 0 15.5 6)
 		)

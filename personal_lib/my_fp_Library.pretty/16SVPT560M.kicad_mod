@@ -320,7 +320,7 @@
 		(uuid "f7126b0a-8860-4583-ba59-cc7435954682")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/16SVPF560M/16SVPF560M/KiCad/16SVPF560M.stp"
+	(model "C:/kicad_libs/personal_lib/3D/16SVPF560M.stp"
 		(offset
 			(xyz 0 0 0.5500000037)
 		)

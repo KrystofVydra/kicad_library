@@ -219,7 +219,7 @@
 		(uuid "368191b6-35fc-462e-8d7e-aac2486fd1b9")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/XAL7070-332MEC/XAL7070-332MEC/KiCad/XAL7070-332MEC.stp"
+	(model "C:/kicad_libs/personal_lib/3D/XAL7070-332MEC.stp"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -523,7 +523,7 @@
 		(uuid "c1fa6038-2297-434b-be32-63d3789af179")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/3009W4PCT56N40X/684M9W4103L461.STEP"
+	(model "C:/kicad_libs/personal_lib/3D/684M9W4103L461.STEP"
 		(offset
 			(xyz 0 1.1 6.3)
 		)

@@ -199,7 +199,7 @@
 		(uuid "43312de0-1d28-455b-bc93-079e63f9e043")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/KO_EELP41.22-Q1S2-25-A8J8-020-R18/KO_EELP41.22-Q1S2-25-A8J8-020-R18/KiCad/KO_EELP41.22-Q1S2-25-A8J8-020-R18.stp"
+	(model "C:/kicad_libs/personal_lib/3D/KO_EELP41.22-Q1S2-25-A8J8-020-R18.stp"
 		(offset
 			(xyz 0 0 0.1699999992)
 		)

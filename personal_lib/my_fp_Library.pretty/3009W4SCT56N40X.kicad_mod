@@ -436,7 +436,7 @@
 		(uuid "05921cf7-221f-41d6-9256-5629584c1046")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/3009W4SCT56N40X/3009W4SCT56N40X/KiCad/3009W4SCT56N40X.stp"
+	(model "C:/kicad_libs/personal_lib/3D/3009W4SCT56N40X.stp"
 		(offset
 			(xyz 11 -13 -0.5)
 		)

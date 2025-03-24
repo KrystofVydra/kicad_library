@@ -385,7 +385,7 @@
 		(uuid "6993864d-8d0b-41a5-b136-9a33971a1162")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/BQ25798RQMR/BQ25798RQMR/KiCad/BQ25798RQMR.stp"
+	(model "C:/kicad_libs/personal_lib/3D/BQ25798RQMR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

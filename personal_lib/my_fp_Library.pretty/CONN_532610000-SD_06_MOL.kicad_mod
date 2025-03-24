@@ -265,7 +265,7 @@
 		(uuid "69ae46a7-0aec-46cc-af64-38756a7a277c")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/exports (2)/KiCADv6/0532614006.stp"
+	(model "C:/kicad_libs/personal_lib/3D/0532614006.stp"
 		(offset
 			(xyz 0 3 0)
 		)

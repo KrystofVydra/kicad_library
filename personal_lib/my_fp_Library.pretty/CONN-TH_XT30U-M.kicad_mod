@@ -436,7 +436,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/xt30/XT30U-M/3D/XT30U-M.stp"
+	(model "C:/kicad_libs/personal_lib/3D/XT30U-M.stp"
 		(offset
 			(xyz -5.4 -4.05 36.5)
 		)

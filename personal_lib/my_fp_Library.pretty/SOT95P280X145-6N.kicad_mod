@@ -241,7 +241,7 @@
 		(uuid "51374eda-d728-4729-923c-eac999aa7993")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/LMR50410Y3FQDBVRQ1/LMR50410Y3FQDBVRQ1/KiCad/LMR50410Y3FQDBVRQ1.stp"
+	(model "C:/kicad_libs/personal_lib/3D/LMR50410Y3FQDBVRQ1.stp"
 		(offset
 			(xyz 0 0 0)
 		)

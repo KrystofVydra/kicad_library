@@ -806,7 +806,7 @@
 		(uuid "42aad7ab-4796-4725-bc29-6024627e9d59")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/STM32L496VGT3/STM32L496VGT3/KiCad/STM32L496VGT3.stp"
+	(model "C:/kicad_libs/personal_lib/3D/STM32L496VGT3.stp"
 		(offset
 			(xyz 0 0 0)
 		)

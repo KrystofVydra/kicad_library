@@ -1288,7 +1288,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/sic453/LIB_SIC453ED-T1-GE3/SIC453ED-T1-GE3/3D/SIC453ED-T1-GE3.stp"
+	(model "C:/kicad_libs/personal_lib/3D/SIC453ED-T1-GE3.stp"
 		(offset
 			(xyz 0 0.75 0)
 		)

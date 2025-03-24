@@ -187,7 +187,7 @@
 		(uuid "118a8c03-ed59-4a79-ad5f-77575bbe20f0")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/TAJE227K016RNJV/TAJE227K016RNJV/KiCad/TAJE227K016RNJV.stp"
+	(model "C:/kicad_libs/personal_lib/3D/TAJE227K016RNJV.stp"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -643,7 +643,7 @@
 		(uuid "0bee4f22-0966-4cfb-9ada-049c3be72911")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/DA7W2S500G30LF/DA7W2S500G30LF/KiCad/DA7W2S500G30LF.stp"
+	(model "C:/kicad_libs/personal_lib/3D/DA7W2S500G30LF.stp"
 		(offset
 			(xyz -1.369999984 -12.33999997 7.239999662)
 		)

@@ -301,7 +301,7 @@
 		(uuid "a9a06980-9566-48d2-9bbf-3b84385cbba0")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/SI7415DN-T1-GE3/SI7415DN-T1-GE3/KiCad/SI7415DN-T1-GE3.stp"
+	(model "C:/kicad_libs/personal_lib/3D/SI7415DN-T1-GE3.stp"
 		(offset
 			(xyz 0.4199999806 0 0.01999999925)
 		)

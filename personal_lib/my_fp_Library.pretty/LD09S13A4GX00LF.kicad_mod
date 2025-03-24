@@ -303,7 +303,7 @@
 		(uuid "6fd0970e-fb18-4a18-a130-d4b6dc720788")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/LD09S13A4GX00LF/LD09S13A4GX00LF/KiCad/LD09S13A4GX00LF.stp"
+	(model "C:/kicad_libs/personal_lib/3D/LD09S13A4GX00LF.stp"
 		(offset
 			(xyz -5.479999937 -12.56999951 -0.4499999813)
 		)

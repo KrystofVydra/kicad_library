@@ -180,7 +180,7 @@
 		(uuid "d1a8fef8-fe5e-408c-8c00-0ae7da67bcb0")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/lora_libraries/1414cap.step"
+	(model "C:/kicad_libs/personal_lib/3D/1414cap.step"
 		(offset
 			(xyz -0.7 -0.7 1.4)
 		)

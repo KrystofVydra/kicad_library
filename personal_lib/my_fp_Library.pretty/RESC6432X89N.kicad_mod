@@ -167,7 +167,7 @@
 		(uuid "041b357a-9234-402d-a6f1-aad26d749e1b")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/WSL2512R0125FEB/KiCad/WSL2512R0125FEB.stp"
+	(model "C:/kicad_libs/personal_lib/3D/WSL2512R0125FEB.stp"
 		(offset
 			(xyz 0 0 0)
 		)

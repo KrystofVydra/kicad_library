@@ -235,7 +235,7 @@
 		(uuid "6bfe55fa-693a-4cb0-9706-09bff729598b")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/RFD3055LESM9A/RFD3055LESM9A/KiCad/RFD3055LESM9A.stp"
+	(model "C:/kicad_libs/personal_lib/3D/RFD3055LESM9A.stp"
 		(offset
 			(xyz 0 -1.779999945 0.4999999925)
 		)

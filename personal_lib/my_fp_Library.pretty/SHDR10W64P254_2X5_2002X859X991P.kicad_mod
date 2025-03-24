@@ -265,7 +265,7 @@
 		(uuid "dd011300-65cc-4668-a2f5-73c3098b1e57")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/N2510-6002RB/N2510-6002RB/KiCad/N2510-6002RB.stp"
+	(model "C:/kicad_libs/personal_lib/3D/N2510-6002RB.stp"
 		(offset
 			(xyz 0 0 0)
 		)

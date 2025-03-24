@@ -260,7 +260,7 @@
 		(uuid "626cc346-8a1c-4965-a164-806638e68c65")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/XAL1010-152MED/XAL1010-152MED/KiCad/XAL1010-152MED.stp"
+	(model "C:/kicad_libs/personal_lib/3D/XAL1010-152MED.stp"
 		(offset
 			(xyz 0 0 0)
 		)

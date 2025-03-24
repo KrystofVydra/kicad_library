@@ -255,14 +255,14 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "a0f2b3e0-e525-4e68-abc7-617cf7998c6c")
 	)
-	(pad "9" smd rect
+	(pad "8" smd rect
 		(at 0 -0.39 90)
 		(size 1.9 2.45)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "9f14062b-f4a8-4999-8adf-15e4a39d66f8")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/CSD17575Q3T/CSD17575Q3T/KiCad/CSD17575Q3T.stp"
+	(model "C:/kicad_libs/personal_lib/3D/CSD17575Q3T.stp"
 		(offset
 			(xyz 0 0 0)
 		)

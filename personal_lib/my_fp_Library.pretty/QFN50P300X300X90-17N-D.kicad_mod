@@ -268,7 +268,7 @@
 		(uuid "5fe25952-d63f-46e9-aa59-b87e686eece2")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/PAC1954T-E_4MX/PAC1954T-E_4MX/KiCad/PAC1954T-E_4MX.stp"
+	(model "C:/kicad_libs/personal_lib/3D/PAC1954T-E_4MX.stp"
 		(offset
 			(xyz 0 0 0)
 		)

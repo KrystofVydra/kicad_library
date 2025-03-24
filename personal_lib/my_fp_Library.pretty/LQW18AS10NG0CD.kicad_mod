@@ -167,7 +167,7 @@
 		(uuid "0b13ff5d-0e67-4e33-b6fd-509870eb8094")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/lora_libraries/LQW18AS30NG00D/LQW18AS30NG00D/KiCad/LQW18AS30NG00D.stp"
+	(model "C:/kicad_libs/personal_lib/3D/LQW18AS30NG00D.stp"
 		(offset
 			(xyz 0 0 0)
 		)

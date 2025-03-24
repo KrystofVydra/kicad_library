@@ -239,7 +239,7 @@
 		(uuid "559b0336-dff8-4753-bdb1-481396006891")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/XEL6030-222MEC/XEL6030-222MEC/KiCad/XEL6030-222MEC.stp"
+	(model "C:/kicad_libs/personal_lib/3D/XEL6030-222MEC.stp"
 		(offset
 			(xyz 0 0 0)
 		)

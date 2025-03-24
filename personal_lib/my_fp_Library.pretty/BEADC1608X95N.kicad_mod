@@ -167,7 +167,7 @@
 		(uuid "074d6aac-7e71-428e-bae1-1fddb91c0d15")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/LIB_FCM1608KF-601T03/FCM1608KF-601T03/KiCad/FCM1608KF-601T03.stp"
+	(model "C:/kicad_libs/personal_lib/3D/FCM1608KF-601T03.stp"
 		(offset
 			(xyz 0 0 0)
 		)

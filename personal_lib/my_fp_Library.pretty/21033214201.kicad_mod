@@ -319,7 +319,7 @@
 		(uuid "284f1f75-75f3-4c37-a4a7-181c0dc8ee71")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/libraries/21033214201/KiCad/21033214201.stp"
+	(model "C:/kicad_libs/personal_lib/3D/21033214201.stp"
 		(offset
 			(xyz 1.49 27.58 8.5)
 		)
