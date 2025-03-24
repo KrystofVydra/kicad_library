@@ -1,0 +1,181 @@
+(footprint "RESC6432X89N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.99")
+	(layer "F.Cu")
+	(descr "WSL2512R0125FEB")
+	(tags "Resistor")
+	(property "Reference" "R**"
+		(at 0 -3 0)
+		(layer "F.SilkS")
+		(uuid "a5fcf09d-b62c-42ce-abc3-a52aca277379")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "RESC6432X89N"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "080dcfe9-9e8a-46fb-af06-44e144bbe336")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0017953c-c59e-474e-a36b-d41f51248d3b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e842fea-457e-4900-9ef8-41e8af5a0563")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 0 -1.49)
+		(end 0 1.49)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "db4bb5f7-f69d-4e1a-a66d-0a3ba684840a")
+	)
+	(fp_line
+		(start -3.875 -2)
+		(end 3.875 -2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fb6406db-c7a8-48b9-9c18-a0a70fc13f4c")
+	)
+	(fp_line
+		(start -3.875 2)
+		(end -3.875 -2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3abe3cb7-a5d6-46e6-a82b-2f200bea3617")
+	)
+	(fp_line
+		(start 3.875 -2)
+		(end 3.875 2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "37db3f87-9e88-40d4-8dcb-e63becfa1227")
+	)
+	(fp_line
+		(start 3.875 2)
+		(end -3.875 2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "73dc5076-1097-459c-9a07-eb69bcf80839")
+	)
+	(fp_line
+		(start -3.175 -1.59)
+		(end 3.175 -1.59)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2ff31dcf-2cad-4b25-a384-e05af76f0c3c")
+	)
+	(fp_line
+		(start -3.175 1.59)
+		(end -3.175 -1.59)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1bbfc189-8d2e-4779-9195-400ac0f4ae7f")
+	)
+	(fp_line
+		(start 3.175 -1.59)
+		(end 3.175 1.59)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4978b3fc-5087-41ff-8a8d-2cadc49289f9")
+	)
+	(fp_line
+		(start 3.175 1.59)
+		(end -3.175 1.59)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1e9cbd27-6df5-4f68-b27f-ec48aed7ac18")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 3.5 0)
+		(layer "F.Fab")
+		(uuid "88cf3130-9fe8-4e08-bdeb-f26f29545e01")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.9 0)
+		(size 1.45 3.45)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "707bb37c-d799-4e98-b448-26be205af17f")
+	)
+	(pad "2" smd rect
+		(at 2.9 0)
+		(size 1.45 3.45)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "041b357a-9234-402d-a6f1-aad26d749e1b")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/kryst/Desktop/libraries/WSL2512R0125FEB/KiCad/WSL2512R0125FEB.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

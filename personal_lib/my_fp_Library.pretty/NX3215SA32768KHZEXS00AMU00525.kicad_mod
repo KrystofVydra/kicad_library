@@ -1,0 +1,234 @@
+(footprint "NX3215SA32768KHZEXS00AMU00525"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.99")
+	(layer "F.Cu")
+	(descr "NX3215SA-32.768KHZ-EXS00A-MU00525-1")
+	(tags "Crystal or Oscillator")
+	(property "Reference" "Y**"
+		(at 0 -3 0)
+		(layer "F.SilkS")
+		(uuid "177bfee6-35cb-42fd-8610-e2aa57b89b59")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "NX3215SA32768KHZEXS00AMU00525"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "97e8fbb3-3412-4baa-ad52-8d2d0f6dd83f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b07b4ba9-f61e-4be5-a20e-ddca8ec5dd5f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "578c600e-d25b-4595-ab33-94f50bc5f4e8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.3 -0.1)
+		(end -2.3 -0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "608b4460-a61f-404a-be1d-633ea42ec3ce")
+	)
+	(fp_line
+		(start -2.3 0)
+		(end -2.3 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3a2894ce-e007-4886-998a-777eb34f72e2")
+	)
+	(fp_line
+		(start -2.3 0)
+		(end -2.3 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e73dfc45-3f06-4dcb-a1ec-95a0fcb611c1")
+	)
+	(fp_arc
+		(start -2.3 -0.1)
+		(mid -2.25 -0.05)
+		(end -2.3 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "21e8e079-9203-461c-b750-2520bf619769")
+	)
+	(fp_arc
+		(start -2.3 -0.1)
+		(mid -2.25 -0.05)
+		(end -2.3 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "465f50b1-20e6-4272-b266-f04d0c6bb86d")
+	)
+	(fp_arc
+		(start -2.3 0)
+		(mid -2.35 -0.05)
+		(end -2.3 -0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "921cc7d6-32d1-4258-840e-3c9e07e1d2a5")
+	)
+	(fp_line
+		(start -2.75 -1.9)
+		(end 2.75 -1.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0f307697-04a7-40f6-ba9c-3a19c115e676")
+	)
+	(fp_line
+		(start -2.75 1.9)
+		(end -2.75 -1.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "29002702-2ddc-4e78-a954-92c4368ffda3")
+	)
+	(fp_line
+		(start 2.75 -1.9)
+		(end 2.75 1.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3c7f239d-0b89-4253-ba46-13e59c96c690")
+	)
+	(fp_line
+		(start 2.75 1.9)
+		(end -2.75 1.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b1b6f228-7e68-42f5-a058-b9b59f43b5f5")
+	)
+	(fp_line
+		(start -1.6 -0.75)
+		(end -1.6 0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4e89852d-5291-480f-aa84-88f6f1edaeb1")
+	)
+	(fp_line
+		(start -1.6 0.75)
+		(end 1.6 0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "17a234f7-30b0-4a36-948e-f2c6ffce56c4")
+	)
+	(fp_line
+		(start 1.6 -0.75)
+		(end -1.6 -0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "20f8435c-ed76-435f-bcdd-9a41a5f6d781")
+	)
+	(fp_line
+		(start 1.6 0.75)
+		(end 1.6 -0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c0fecc59-7955-4c85-ab2c-89d1fe4bf699")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.5 3 0)
+		(layer "F.Fab")
+		(uuid "20ce645c-798d-45f2-bd43-c5175b9c7aeb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.25 0)
+		(size 1 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4b270706-ac4f-4d84-afca-a66028621084")
+	)
+	(pad "2" smd rect
+		(at 1.25 0)
+		(size 1 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "065a90f7-9fc5-41a4-9dee-7b571b657f73")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/kryst/Desktop/libraries/NX3215SA-32.768KHZ-EXS00A-MU00525/NX3215SA-32.768KHZ-EXS00A-MU00525/KiCad/NX3215SA-32.768KHZ-EXS00A-MU00525.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

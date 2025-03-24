@@ -1,0 +1,79 @@
+(footprint "lora_padhole"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.99")
+	(layer "F.Cu")
+	(property "Reference" "P"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "1eefb43d-6266-463e-9145-e0923f48a9b7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "lora_padhole"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dabc1b69-db81-4bd2-8501-a922cf61d71e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "924dae06-6502-4760-8160-35e16b7527d1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "132c89ab-7bfb-491b-a8ba-767ff5e69813")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(pad "" thru_hole roundrect
+		(at 1.5 0 270)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
+		(roundrect_rratio 0.0625)
+		(thermal_bridge_angle 45)
+		(uuid "00e0de37-e175-45d2-be54-2a1a55e325bf")
+	)
+	(pad "1" smd roundrect
+		(at -2.5 0 270)
+		(size 3 3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.0625)
+		(thermal_bridge_angle 45)
+		(uuid "ed48ba45-4b8d-4722-a0cf-fb0f0bbce090")
+	)
+	(embedded_fonts no)
+)

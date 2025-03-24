@@ -1,0 +1,181 @@
+(footprint "RESC6430X80N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.99")
+	(layer "F.Cu")
+	(descr "2512(6432)")
+	(tags "Resistor")
+	(property "Reference" "R**"
+		(at 0 -3 0)
+		(layer "F.SilkS")
+		(uuid "de18845d-da10-4c6a-9daa-e8279b767618")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "RESC6430X80N"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "47789853-249f-49a9-b538-8954b0dd5fd5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "faba3e8b-5b61-480b-b45a-a22e8f5cd36c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7d82b545-391c-4344-bd21-c471b889987d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 0 -1.4)
+		(end 0 1.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d7adb912-84a6-4415-b753-dae1db5768dd")
+	)
+	(fp_line
+		(start -3.9 -1.85)
+		(end 3.9 -1.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "14fcd121-281d-49e3-a531-fbbc32023e02")
+	)
+	(fp_line
+		(start -3.9 1.85)
+		(end -3.9 -1.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "73f27a43-957b-45cd-a2b4-8d7a7257b581")
+	)
+	(fp_line
+		(start 3.9 -1.85)
+		(end 3.9 1.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e7ac9398-c8ee-4f20-a5d8-380a345600f1")
+	)
+	(fp_line
+		(start 3.9 1.85)
+		(end -3.9 1.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b87e2a2c-5ac7-478a-b251-8c0125d34fdc")
+	)
+	(fp_line
+		(start -3.175 -1.5)
+		(end 3.175 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5713a886-3825-4404-9d36-03285f0e1e16")
+	)
+	(fp_line
+		(start -3.175 1.5)
+		(end -3.175 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "45e39c91-8f46-4223-91c0-d3e6b7744e6e")
+	)
+	(fp_line
+		(start 3.175 -1.5)
+		(end 3.175 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0a2a7df1-4879-479b-9f58-bbe1282a8531")
+	)
+	(fp_line
+		(start 3.175 1.5)
+		(end -3.175 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4e455d7a-6aad-41c5-a497-5475e8b9d00d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 3 0)
+		(layer "F.Fab")
+		(uuid "ea95de7f-beec-49c3-b168-cc78f7b78f7a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.7 0)
+		(size 1.9 3.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "105ef880-55c9-4315-93cc-2ad3f11d9a0f")
+	)
+	(pad "2" smd rect
+		(at 2.7 0)
+		(size 1.9 3.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "289690e3-d326-441a-967b-a96b0b3e4698")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/kryst/Desktop/libraries/ULRG3-2512-R0025-F-LF-SLT/ULRG3-2512-R0025-F-LF-SLT/KiCad/ULRG3-2512-R0025-F-LF-SLT.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
