@@ -1,0 +1,102 @@
+(footprint "SRN60451R0Y"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.99")
+	(layer "F.Cu")
+	(descr "SRN6045_11")
+	(tags "Inductor")
+	(property "Reference" "L**"
+		(at 0 -4.5 0)
+		(layer "F.SilkS")
+		(uuid "a66a1136-facc-49e6-8718-fb08dde4782c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SRN60451R0Y"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "5334daff-cd52-402e-9c6a-eb784a761355")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "00d2524b-7f02-46c7-b5d1-f8f8a9086f31")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8ef86d89-6376-4761-b919-2ff98e42a416")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.7 -3)
+		(end 0.7 -3)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c5b57643-c63a-4532-8f94-73c8928d7af2")
+	)
+	(fp_line
+		(start -0.7 3)
+		(end 0.7 3)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8d1c9517-c197-4ae1-820b-25a4cb3a0d84")
+	)
+	(pad "1" smd rect
+		(at -2.15 0)
+		(size 2 6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "03f7e4cd-d462-4200-b173-66990db98f87")
+	)
+	(pad "2" smd rect
+		(at 2.15 0)
+		(size 2 6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "93c796d0-911f-4e1e-8bfd-155584e8f810")
+	)
+	(embedded_fonts no)
+	(model "C:/kicad_libs/personal_lib/3D/SRN6045-1R0Y.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
+)

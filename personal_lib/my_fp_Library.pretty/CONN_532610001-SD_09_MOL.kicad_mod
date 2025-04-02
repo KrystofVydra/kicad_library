@@ -283,7 +283,7 @@
 		(uuid "c0d5e791-0535-4edc-a939-1d37e006b9ac")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Desktop/lora_libraries/exports (1)/KiCADv6/0532610971.stp"
+	(model "C:/kicad_libs/personal_lib/3D/0532610771.stp"
 		(offset
 			(xyz 0 3 0)
 		)

@@ -1,9 +1,9 @@
-(footprint "3007W2SCT56N40X"
+(footprint "CBD7W2F57R7N0X_AA"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.99")
 	(layer "F.Cu")
-	(descr "3007W2SCT56N40X")
+	(descr "CBD7W2F57R7N0X_AA")
 	(tags "Connector")
 	(property "Reference" "J**"
 		(at 0 -10.5 180)
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "3007W2SCT56N40X"
+	(property "Value" "CBD7W2F57R7N0X_AA"
 		(at 0 -0.889 0)
 		(layer "F.SilkS")
 		(hide yes)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRN6045-1R0Y
+D Bourns SRN6045 Series Shielded Wire-wound SMD Inductor with a Ferrite Core, 1 uH +/-30% 8.5A Idc
+K
+F 
+$ENDCMP
+#
+#End Doc Library

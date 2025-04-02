@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP T498C476K016ATE500
+D T498, Tantalum, MnO2 Tantalum, High Temperature, 47 uF, 10%, 16 VDC, 150C, -55C, 85C, SMD, MnO2, Molded, Hi-Temp, 150C, Auto, AEC-Q200, 4.5 % , N/A, 500 mOhms, 7500 nA, 224.48 mg, 6032, 2.5mm, Height Max = 2.8mm, 500, 156  Weeks
+K
+F https://content.kemet.com/datasheets/KEM_T2053_T498_AUTO.pdf
+$ENDCMP
+#
+#End Doc Library
