@@ -511,7 +511,7 @@
 		(uuid "9d393d4a-bc14-422b-9d2a-cd602546c17b")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/bq25758_module_dumb.step"
+	(model "${MY3D_MODELS}/bq25758_module_dumb.step"
 		(offset
 			(xyz -180.05 85.74 6.1)
 		)

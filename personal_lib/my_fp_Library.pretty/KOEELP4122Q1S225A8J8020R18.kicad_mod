@@ -1,7 +1,7 @@
 (footprint "KOEELP4122Q1S225A8J8020R18"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "1.6mm x 0.8mm x 0.4mm")
 	(tags "LED")
@@ -199,7 +199,7 @@
 		(uuid "43312de0-1d28-455b-bc93-079e63f9e043")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/KO_EELP41.22-Q1S2-25-A8J8-020-R18.stp"
+	(model "${MY3D_MODELS}/KO_EELP41.22-Q1S2-25-A8J8-020-R18.stp"
 		(offset
 			(xyz 0 0 0.1699999992)
 		)

@@ -1,7 +1,7 @@
 (footprint "CAPPM7344X430N"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "CASE E")
 	(tags "Capacitor Polarised")
@@ -187,7 +187,7 @@
 		(uuid "118a8c03-ed59-4a79-ad5f-77575bbe20f0")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/TAJE227K016RNJV.stp"
+	(model "${MY3D_MODELS}/TAJE227K016RNJV.stp"
 		(offset
 			(xyz 0 0 0)
 		)

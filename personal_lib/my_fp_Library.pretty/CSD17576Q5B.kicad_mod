@@ -1,7 +1,7 @@
 (footprint "CSD17576Q5B"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "CSD17576Q5B-2")
 	(tags "MOSFET (N-Channel)")
@@ -261,7 +261,7 @@
 		(uuid "23e85d64-7c26-4b9a-8e50-f8a4ab52793f")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/CSD17576Q5B.stp"
+	(model "${MY3D_MODELS}/CSD17576Q5B.stp"
 		(offset
 			(xyz 0 0 0)
 		)

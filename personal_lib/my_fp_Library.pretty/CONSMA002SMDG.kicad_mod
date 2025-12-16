@@ -1,7 +1,7 @@
 (footprint "CONSMA002SMDG"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "CONSMA002-SMD-G-2")
 	(tags "Connector")
@@ -1115,7 +1115,7 @@
 		(uuid "97b3aea7-6762-4241-9b7b-a5b77ddc8b10")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/CONSMA002-SMD-G.stp"
+	(model "${MY3D_MODELS}/CONSMA002-SMD-G.stp"
 		(offset
 			(xyz -7.409999736 0 7.399999984)
 		)

@@ -1,7 +1,7 @@
 (footprint "FQD1N80TM"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "DPAK3 (TO−252 3 LD) CASE 369AS ISSUE O_1")
 	(tags "MOSFET (N-Channel)")
@@ -235,7 +235,7 @@
 		(uuid "6bfe55fa-693a-4cb0-9706-09bff729598b")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/RFD3055LESM9A.stp"
+	(model "${MY3D_MODELS}/RFD3055LESM9A.stp"
 		(offset
 			(xyz 0 -1.779999945 0.4999999925)
 		)

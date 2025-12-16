@@ -1,7 +1,7 @@
 (footprint "SRN60451R0Y"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "SRN6045_11")
 	(tags "Inductor")
@@ -88,7 +88,7 @@
 		(uuid "93c796d0-911f-4e1e-8bfd-155584e8f810")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/SRN6045-1R0Y.stp"
+	(model "${MY3D_MODELS}/SRN6045-1R0Y.stp"
 		(offset
 			(xyz 0 0 0)
 		)

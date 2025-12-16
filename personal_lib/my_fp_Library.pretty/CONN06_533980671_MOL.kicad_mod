@@ -1,7 +1,7 @@
 (footprint "CONN06_533980671_MOL"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(tags "533980671 ")
 	(property "Reference" "REF**"
@@ -245,7 +245,7 @@
 		(uuid "1e8eeaf2-dc15-4af8-b6e0-0de68f5fcc69")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/0533980671.stp"
+	(model "${MY3D_MODELS}/0533980671.stp"
 		(offset
 			(xyz 0 1.8 5.5)
 		)

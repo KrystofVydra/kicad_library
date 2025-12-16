@@ -201,7 +201,7 @@
 		(uuid "0c7601c3-2ba1-4c98-9530-bb3531c61f12")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/SCMT22D505PRBB0.stp"
+	(model "${MY3D_MODELS}/SCMT22D505PRBB0.stp"
 		(offset
 			(xyz 0 -8.999999865 11.39000017)
 		)

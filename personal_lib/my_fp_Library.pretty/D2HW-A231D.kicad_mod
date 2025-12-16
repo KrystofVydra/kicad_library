@@ -115,7 +115,7 @@
 		(uuid "91f63fea-791d-468e-a134-d9f15b894c6f")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/D2HW-A231D.stp"
+	(model "${MY3D_MODELS}/D2HW-A231D.stp"
 		(offset
 			(xyz 5.06 0 -0.05)
 		)

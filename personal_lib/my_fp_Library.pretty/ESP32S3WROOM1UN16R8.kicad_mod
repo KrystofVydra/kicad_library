@@ -491,7 +491,7 @@
 		(uuid "7e346331-757d-4f3d-aca2-e3e161ee12b1")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/ESP32-S3-WROOM-1U-N16R8.stp"
+	(model "${MY3D_MODELS}/ESP32-S3-WROOM-1U-N16R8.stp"
 		(offset
 			(xyz 0 -0.2499999962 0)
 		)

@@ -241,7 +241,7 @@
 		(uuid "8be26c2c-1dea-420d-8b6a-cfca73433dcb")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/AONS66614.stp"
+	(model "${MY3D_MODELS}/AONS66614.stp"
 		(offset
 			(xyz 0 0.1199999955 0)
 		)

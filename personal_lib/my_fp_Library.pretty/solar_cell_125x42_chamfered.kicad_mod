@@ -1,7 +1,7 @@
 (footprint "solar_cell_125x42_chamfered"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 -8.5 0)
@@ -195,7 +195,7 @@
 		(uuid "19aefa47-b7bc-4aa6-8301-92bcae1329a4")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/solar_cell_125x42 v1.step"
+	(model "${MY3D_MODELS}/solar_cell_125x42 v1.step"
 		(offset
 			(xyz 62.5 -21 0.2)
 		)

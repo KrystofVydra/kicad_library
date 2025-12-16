@@ -475,7 +475,7 @@
 		(uuid "07f65e52-72a4-4e33-bde9-9445d19f1631")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/LIS3DHTR.stp"
+	(model "${MY3D_MODELS}/LIS3DHTR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1,7 +1,7 @@
 (footprint "RESC6430X80N"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "2512(6432)")
 	(tags "Resistor")
@@ -167,7 +167,7 @@
 		(uuid "289690e3-d326-441a-967b-a96b0b3e4698")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/ULRG3-2512-R0025-F-LF-SLT.stp"
+	(model "${MY3D_MODELS}/ULRG3-2512-R0025-F-LF-SLT.stp"
 		(offset
 			(xyz 0 0 0)
 		)

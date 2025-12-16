@@ -1,7 +1,7 @@
 (footprint "SOT95P280X145-6N"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "DBV (R-PDSO-G6)")
 	(tags "Integrated Circuit")
@@ -241,7 +241,7 @@
 		(uuid "51374eda-d728-4729-923c-eac999aa7993")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/LMR50410Y3FQDBVRQ1.stp"
+	(model "${MY3D_MODELS}/LMR50410Y3FQDBVRQ1.stp"
 		(offset
 			(xyz 0 0 0)
 		)

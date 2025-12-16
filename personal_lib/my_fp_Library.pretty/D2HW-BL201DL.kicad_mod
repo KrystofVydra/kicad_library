@@ -124,7 +124,7 @@
 		(uuid "dde6d761-af9c-45e1-9d9c-5921c1ab4bd1")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/D2HW-BL201DL.stp"
+	(model "${MY3D_MODELS}/D2HW-BL201DL.stp"
 		(offset
 			(xyz 4 6 0)
 		)

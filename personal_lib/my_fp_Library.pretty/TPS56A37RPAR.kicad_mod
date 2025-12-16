@@ -1,7 +1,7 @@
 (footprint "TPS56A37RPAR"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "RPA0010A")
 	(tags "Integrated Circuit")
@@ -355,7 +355,7 @@
 		(uuid "42c82a77-6eeb-4f83-8ee5-a26359ed8433")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/TPS56837RPAR.stp"
+	(model "${MY3D_MODELS}/TPS56837RPAR.stp"
 		(offset
 			(xyz -0.009999999626 0 0)
 		)

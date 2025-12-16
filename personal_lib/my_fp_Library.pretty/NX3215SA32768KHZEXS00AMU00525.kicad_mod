@@ -1,7 +1,7 @@
 (footprint "NX3215SA32768KHZEXS00AMU00525"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "NX3215SA-32.768KHZ-EXS00A-MU00525-1")
 	(tags "Crystal or Oscillator")
@@ -220,7 +220,7 @@
 		(uuid "065a90f7-9fc5-41a4-9dee-7b571b657f73")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/NX3215SA-32.768KHZ-EXS00A-MU00525.stp"
+	(model "${MY3D_MODELS}/NX3215SA-32.768KHZ-EXS00A-MU00525.stp"
 		(offset
 			(xyz 0 0 0)
 		)

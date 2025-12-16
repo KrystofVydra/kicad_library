@@ -1,7 +1,7 @@
 (footprint "NXTRX4_footprint"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Needronix transceiver UHF/VHF")
 	(tags "TCVR, TRX, Needronix, Cubesat, Space, ESA")
@@ -4353,7 +4353,7 @@
 			(xyz 90 0 180)
 		)
 	)
-	(model "C:/kicad_libs/personal_lib/3D/NX_Radio_70_RadSh.STEP"
+	(model "${MY3D_MODELS}/NX_Radio_70_RadSh.STEP"
 		(offset
 			(xyz 32 -17 -4.2)
 		)

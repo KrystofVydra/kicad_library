@@ -1,7 +1,7 @@
 (footprint "QFN50P300X300X90-17N-D"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "16-Lead VQFN, (3 x 3 mm)")
 	(tags "Integrated Circuit")
@@ -268,7 +268,7 @@
 		(uuid "5fe25952-d63f-46e9-aa59-b87e686eece2")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/PAC1954T-E_4MX.stp"
+	(model "${MY3D_MODELS}/PAC1954T-E_4MX.stp"
 		(offset
 			(xyz 0 0 0)
 		)

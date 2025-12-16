@@ -1,7 +1,7 @@
 (footprint "XEL6030222MEC"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "XEL6030-222MEC-2")
 	(tags "Inductor")
@@ -239,7 +239,7 @@
 		(uuid "559b0336-dff8-4753-bdb1-481396006891")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/XEL6030-222MEC.stp"
+	(model "${MY3D_MODELS}/XEL6030-222MEC.stp"
 		(offset
 			(xyz 0 0 0)
 		)

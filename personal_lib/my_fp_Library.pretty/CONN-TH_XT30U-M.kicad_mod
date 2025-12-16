@@ -1,7 +1,7 @@
 (footprint "CONN-TH_XT30U-M"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at -1.5 -3.9624 0)
@@ -436,7 +436,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/XT30U-M.stp"
+	(model "${MY3D_MODELS}/XT30U-M.stp"
 		(offset
 			(xyz -5.4 -4.05 36.5)
 		)

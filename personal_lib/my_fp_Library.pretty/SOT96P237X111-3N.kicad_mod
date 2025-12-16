@@ -184,7 +184,7 @@
 		(uuid "22804d1c-0aba-4988-805f-0105f0981d3a")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/BSS138LT3G.stp"
+	(model "${MY3D_MODELS}/BSS138LT3G.stp"
 		(offset
 			(xyz 0 0 0)
 		)

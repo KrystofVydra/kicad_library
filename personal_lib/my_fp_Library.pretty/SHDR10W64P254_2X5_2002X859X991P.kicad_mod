@@ -1,7 +1,7 @@
 (footprint "SHDR10W64P254_2X5_2002X859X991P"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "N2510-6002RB")
 	(tags "Connector")
@@ -265,7 +265,7 @@
 		(uuid "dd011300-65cc-4668-a2f5-73c3098b1e57")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/N2510-6002RB.stp"
+	(model "${MY3D_MODELS}/N2510-6002RB.stp"
 		(offset
 			(xyz 0 0 0)
 		)

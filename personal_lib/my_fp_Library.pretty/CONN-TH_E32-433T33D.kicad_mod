@@ -1,7 +1,7 @@
 (footprint "CONN-TH_E32-433T33D"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 -31.2123 0)
@@ -362,7 +362,7 @@
 		(uuid "2b497a45-7b9d-4952-ae88-440a54a61bc2")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/E32-433T33D.step"
+	(model "${MY3D_MODELS}/E32-433T33D.step"
 		(offset
 			(xyz -18.5 -30 2.5)
 		)

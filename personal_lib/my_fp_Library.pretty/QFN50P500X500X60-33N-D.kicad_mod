@@ -364,7 +364,7 @@
 		(uuid "20a4ef8e-d7cc-4b74-a09e-a627a718d435")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/STM32U031K8U6.stp"
+	(model "${MY3D_MODELS}/STM32U031K8U6.stp"
 		(offset
 			(xyz 0 0 0)
 		)

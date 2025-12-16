@@ -1,7 +1,7 @@
 (footprint "3007W2SCT56N40X"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "3007W2SCT56N40X")
 	(tags "Connector")
@@ -329,7 +329,7 @@
 		(uuid "5ff8c379-146e-4b5b-b465-45eeba9b33d5")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/3007W2SCT56N40X.stp"
+	(model "${MY3D_MODELS}/3007W2SCT56N40X.stp"
 		(offset
 			(xyz 0 0 0)
 		)

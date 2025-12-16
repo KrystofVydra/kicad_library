@@ -1,7 +1,7 @@
 (footprint "532614004"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "532610471")
 	(tags "Connector")
@@ -251,7 +251,7 @@
 		(uuid "adefe3b7-8560-46b9-8f30-5a612880569b")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/532610471.stp"
+	(model "${MY3D_MODELS}/532610471.stp"
 		(offset
 			(xyz 0 -5.679999743 0.2)
 		)

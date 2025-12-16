@@ -388,7 +388,7 @@
 		(uuid "fc82e4df-cb10-4c5e-bf0f-4246ab300fb0")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/BQ25758RRVR.stp"
+	(model "${MY3D_MODELS}/BQ25758RRVR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

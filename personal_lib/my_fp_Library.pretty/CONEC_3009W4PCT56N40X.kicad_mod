@@ -1,7 +1,7 @@
 (footprint "CONEC_3009W4PCT56N40X"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at -23.62 -18.135 0)
@@ -523,7 +523,7 @@
 		(uuid "c1fa6038-2297-434b-be32-63d3789af179")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/684M9W4103L461.STEP"
+	(model "${MY3D_MODELS}/684M9W4103L461.STEP"
 		(offset
 			(xyz 0 1.1 6.3)
 		)

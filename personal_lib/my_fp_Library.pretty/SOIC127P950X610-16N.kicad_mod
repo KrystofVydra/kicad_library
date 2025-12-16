@@ -1,7 +1,7 @@
 (footprint "SOIC127P950X610-16N"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "SM91076L")
 	(tags "Transformer")
@@ -301,7 +301,7 @@
 		(uuid "71dfd136-4976-41c6-8381-db229d9b5869")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/personal_lib/3D/SM91076L-E.stp"
+	(model "${MY3D_MODELS}/SM91076L-E.stp"
 		(offset
 			(xyz 0 0 0)
 		)
