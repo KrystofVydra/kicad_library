@@ -1,0 +1,221 @@
+(footprint "MICRO-USB-TH_1051330001"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -5.08 0)
+		(layer "F.SilkS")
+		(uuid "b72b600d-9e00-4193-b277-754db808938b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MICRO-USB-TH_1051330001"
+		(at 0 5.08 0)
+		(layer "F.Fab")
+		(uuid "2335e044-7a4b-45bc-995f-8e27fa95d4ae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "32a8f4ad-785e-4eee-9426-897d02dea0c4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "81809328-b5e7-43b7-9290-95c0df82cb9d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -4.02 -1.52)
+		(end -4.02 1.54)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "80a8c10b-e64a-4e10-9224-21cc011e66a0")
+	)
+	(fp_line
+		(start -4.02 1.54)
+		(end -1.19 1.54)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "eb20625d-c2df-49ae-a039-01596a723e50")
+	)
+	(fp_line
+		(start -3.75 -1.52)
+		(end -4.01 -1.52)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "91c975ec-c4ee-46a6-bf34-82b528a996cb")
+	)
+	(fp_line
+		(start -1.76 -1.52)
+		(end -1.85 -1.52)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3e1ccb6d-1c78-4e11-9046-fa16c086610b")
+	)
+	(fp_line
+		(start 1.19 1.54)
+		(end 4 1.54)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1ced91c5-56a1-4db1-bbcb-25dc2a59a744")
+	)
+	(fp_line
+		(start 1.85 -1.52)
+		(end 1.76 -1.52)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4c3fb50b-923b-4e4d-a25d-345170cef486")
+	)
+	(fp_line
+		(start 4 -1.52)
+		(end 3.75 -1.52)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fef90853-eb2f-4678-bf94-bb7b5cdca0db")
+	)
+	(fp_line
+		(start 4 1.54)
+		(end 4 -1.52)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2a624b9a-ba35-436d-b947-e726444b88eb")
+	)
+	(fp_circle
+		(center -4 -1.53)
+		(end -3.97 -1.53)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "9050b6d5-a03e-4aea-85f7-c31a4575f770")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "66e67e37-5def-4c24-a254-f98eef445b5a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.3 -1.08)
+		(size 0.45 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "dd6c0002-0771-47bf-a3c5-fa791cf2444d")
+	)
+	(pad "2" smd rect
+		(at -0.65 -1.08)
+		(size 0.45 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a328c275-3d5f-4a10-9a92-1641e76381fe")
+	)
+	(pad "3" smd rect
+		(at 0 -1.08)
+		(size 0.45 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "483d2208-3b4e-474d-a5f8-c37be2b07920")
+	)
+	(pad "4" smd rect
+		(at 0.65 -1.08)
+		(size 0.45 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "00254c3a-4e35-4e0a-af04-4f32d4d11c63")
+	)
+	(pad "5" smd rect
+		(at 1.3 -1.08)
+		(size 0.45 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5b4cdcb2-1519-4b58-978e-e645df983813")
+	)
+	(pad "6" thru_hole oval
+		(at -2.8 -1.08)
+		(size 1.7 1.2)
+		(drill oval 1.099998 0.6096)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "81d89ad6-c9a5-49ae-a23a-9cc4d64a1fab")
+	)
+	(pad "6" thru_hole oval
+		(at 0 1.08)
+		(size 2.2 1.2)
+		(drill oval 1.499997 0.6096)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "efaf16b1-0e09-4b7a-ae28-9e8b94d507ce")
+	)
+	(pad "6" thru_hole oval
+		(at 2.8 -1.08)
+		(size 1.7 1.2)
+		(drill oval 1.100023 0.6096)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "235167f0-33a9-4e61-ade1-feb97a19aafc")
+	)
+	(embedded_fonts no)
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/MICRO-USB-TH_1051330001.wrl"
+		(offset
+			(xyz -0 0.02 3.1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

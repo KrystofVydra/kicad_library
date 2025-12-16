@@ -1,0 +1,233 @@
+(footprint "CONN-TH_XY118-5.0-2P"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(uuid "6d27862f-6a4c-4c03-ad3b-7e4837cbe6d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CONN-TH_XY118-5.0-2P"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "4f4df898-a536-4134-9349-431921de2dd6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "252c9c99-614d-44d6-8ab1-83cd17085cbd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "70a87198-d426-48ea-b613-bc74098355e4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -5.46 -4.58)
+		(end -5.46 -3.56)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a21876b3-61dd-4f9a-b859-b88b4c9adb09")
+	)
+	(fp_line
+		(start -5.46 -3.56)
+		(end -5 -3.67)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "98571027-1311-407d-ac76-5dd4d95ca19a")
+	)
+	(fp_line
+		(start -5 -5.08)
+		(end -5 4.12)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d132acd5-c38b-4532-945a-e9b1a16477b2")
+	)
+	(fp_line
+		(start -5 -5.08)
+		(end 5 -5.08)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "762dc659-7b7c-41b6-8951-3711d6f30ac0")
+	)
+	(fp_line
+		(start -5 -4.45)
+		(end -5.46 -4.58)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dd8a1ea6-7a97-473f-ac93-fe678ec0eb00")
+	)
+	(fp_line
+		(start -5 4.12)
+		(end 5 4.12)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a90a282f-510d-4c8b-bb52-d7a812eb1e75")
+	)
+	(fp_line
+		(start -4.56 4.12)
+		(end -4.56 5.46)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "64f12fdc-f1ce-487a-a5f9-b2382496a842")
+	)
+	(fp_line
+		(start -4.56 5.46)
+		(end -0.38 5.46)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c12756a8-0bdc-44f2-ba8c-3bbe7564a817")
+	)
+	(fp_line
+		(start -0.38 5.46)
+		(end -0.38 4.12)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d876eb49-13f7-48ac-95ac-20e87284ffe7")
+	)
+	(fp_line
+		(start 0.44 4.12)
+		(end 0.44 5.46)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "206b7f28-157b-4823-b74b-80aee0792640")
+	)
+	(fp_line
+		(start 0.44 5.46)
+		(end 4.62 5.46)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bc811e44-0f86-437f-a6cc-7afacf3d8455")
+	)
+	(fp_line
+		(start 4.62 5.46)
+		(end 4.62 4.12)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "90b93901-e0b3-49c4-a9d5-f3105473d1fd")
+	)
+	(fp_line
+		(start 5 -5.08)
+		(end 5 4.12)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7e212dcc-e513-4e09-830d-0f018ff0c0c4")
+	)
+	(fp_circle
+		(center -5.13 4.25)
+		(end -5.1 4.25)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "890ead35-b138-4a09-a922-aed2e9a0b2dc")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "7da3d9e1-577f-4a96-9ee7-a36ada28295e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at -2.5 0)
+		(size 2.1 2.1)
+		(drill 1.199998)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "18c3ce77-2389-4d4f-a1bc-995c58ca7588")
+	)
+	(pad "2" thru_hole circle
+		(at 2.5 0)
+		(size 2.1 2.1)
+		(drill 1.199998)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "33116e26-fe81-40e9-a313-0b748c29c51e")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/kryst/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/CONN-TH_XY118-5.0-2P.wrl"
+		(offset
+			(xyz 0 0.55 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

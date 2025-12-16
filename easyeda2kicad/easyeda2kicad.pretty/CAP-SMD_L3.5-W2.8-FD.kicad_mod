@@ -1,0 +1,120 @@
+(footprint "CAP-SMD_L3.5-W2.8-FD"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(uuid "6813d6c0-361e-464b-ac8c-492b1ea0b243")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CAP-SMD_L3.5-W2.8-FD"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "d9bae306-f9d2-464d-87f0-f5970315b087")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6ba9897c-93e6-4b72-ad9c-c30cd0a72948")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f0d31460-d43b-4803-a487-f2cd7adee41c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.58 -1.48)
+		(end -0.58 1.48)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5b773435-7f03-43e9-8987-c8e660b85c47")
+	)
+	(fp_rect
+		(start -1.85 -1.5)
+		(end 1.85 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "8f58a70e-0a86-426e-928e-03df1580d130")
+	)
+	(fp_circle
+		(center -1.75 1.4)
+		(end -1.72 1.4)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "fa2cb980-eaf4-41b5-87ed-ed22e20f4d8e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "8caad3f8-3c3f-4b10-9553-6ff617317e51")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.45 0.005)
+		(size 1.2 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d6da243b-3321-4dc3-81d0-80a66cb22474")
+	)
+	(pad "2" smd rect
+		(at 1.45 0)
+		(size 1.2 2.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c2bf8ccf-d86a-429b-8ed9-55eaefca3ff8")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/kryst/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/CAP-SMD_L3.5-W2.8-FD.wrl"
+		(offset
+			(xyz 0 -0 -0)
+		)
+		(scale
+			(xyz 1 1.1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
