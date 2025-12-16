@@ -1,0 +1,1 @@
+easyeda2kicad --full --lcsc_id=C2913192 --output ~/Documents/KiCad/kicad_library/easyeda2kicad/easyeda2kicad
