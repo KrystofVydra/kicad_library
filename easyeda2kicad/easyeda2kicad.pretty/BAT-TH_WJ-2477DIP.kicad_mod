@@ -206,7 +206,7 @@
 		(uuid "dd6d1384-d6ea-4255-aad6-3cec691364a2")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/BAT-TH_WJ-2477DIP.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/BAT-TH_WJ-2477DIP.wrl"
 		(offset
 			(xyz 0 0.25 8)
 		)

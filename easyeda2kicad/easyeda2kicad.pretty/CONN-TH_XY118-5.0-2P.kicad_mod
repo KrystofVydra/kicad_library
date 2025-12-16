@@ -219,7 +219,7 @@
 		(uuid "33116e26-fe81-40e9-a313-0b748c29c51e")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/CONN-TH_XY118-5.0-2P.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/CONN-TH_XY118-5.0-2P.wrl"
 		(offset
 			(xyz 0 0.55 0)
 		)

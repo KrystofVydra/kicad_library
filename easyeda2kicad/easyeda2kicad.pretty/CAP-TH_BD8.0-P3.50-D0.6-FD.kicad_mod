@@ -142,7 +142,7 @@
 		(uuid "680c3be9-da9b-42a4-bf01-85bd0daa588a")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/CAP-TH_D8.0-H8.0-P3.50.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/CAP-TH_D8.0-H8.0-P3.50.wrl"
 		(offset
 			(xyz 0 -0 0)
 		)

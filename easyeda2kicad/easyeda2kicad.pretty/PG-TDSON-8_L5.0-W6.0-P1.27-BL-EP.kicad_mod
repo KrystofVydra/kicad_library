@@ -219,7 +219,7 @@
 		(uuid "5b857980-6416-4c99-ac9e-a204e48bea6e")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PG-TDSON-8_L5.0-W6.0-H0.9-P1.27-BL-EP.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/PG-TDSON-8_L5.0-W6.0-H0.9-P1.27-BL-EP.wrl"
 		(offset
 			(xyz -0 0 -0)
 		)

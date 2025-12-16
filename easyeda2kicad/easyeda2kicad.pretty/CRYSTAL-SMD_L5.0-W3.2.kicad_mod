@@ -245,7 +245,7 @@
 		(uuid "8aa0c533-2b87-422b-9f5e-3b41a73a5a93")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/CRYSTAL-SMD_L5.0-W3.2.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/CRYSTAL-SMD_L5.0-W3.2.wrl"
 		(offset
 			(xyz 0 -0 -0)
 		)

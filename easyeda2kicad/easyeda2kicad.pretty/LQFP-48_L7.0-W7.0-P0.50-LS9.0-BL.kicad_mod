@@ -444,7 +444,7 @@
 		(uuid "59a8f635-8614-4fb4-b2cd-f8c51db5deee")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LQFP-48_L7.0-W7.0-H1.4-LS9.0-P0.50.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LQFP-48_L7.0-W7.0-H1.4-LS9.0-P0.50.wrl"
 		(offset
 			(xyz 0 -0 -0)
 		)

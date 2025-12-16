@@ -363,7 +363,7 @@
 		(uuid "4ade2b13-f0dc-42f5-bcaf-945ece5c7888")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/CONN-SMD_2060-452.step"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/CONN-SMD_2060-452.step"
 		(offset
 			(xyz -0.1 -0 -0)
 		)

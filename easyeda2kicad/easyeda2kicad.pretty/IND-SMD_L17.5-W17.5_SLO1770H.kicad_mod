@@ -134,7 +134,7 @@
 		(uuid "d62cce35-5ce1-46f5-8b3a-755d6b9784d5")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/IND-SMD_L17.5-W17.5_SLO1770H.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/IND-SMD_L17.5-W17.5_SLO1770H.wrl"
 		(offset
 			(xyz 0 -0 0)
 		)

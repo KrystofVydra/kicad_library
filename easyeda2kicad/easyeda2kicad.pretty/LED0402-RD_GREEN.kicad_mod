@@ -105,7 +105,7 @@
 		(uuid "ba797136-a7b7-45e8-8be4-cc9d8dae4ff3")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0402_L1.0-W0.5-H0.2.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0402_L1.0-W0.5-H0.2.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

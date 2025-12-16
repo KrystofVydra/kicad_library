@@ -144,7 +144,7 @@
 		(uuid "bba0002f-67b0-4be6-835f-feb558340974")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/kryst/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/DO-219AB_L2.8-W1.8-LS3.7-RD.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/DO-219AB_L2.8-W1.8-LS3.7-RD.wrl"
 		(offset
 			(xyz 0 -0 0)
 		)
