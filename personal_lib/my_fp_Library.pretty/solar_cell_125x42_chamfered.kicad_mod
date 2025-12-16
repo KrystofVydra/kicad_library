@@ -1,0 +1,209 @@
+(footprint "solar_cell_125x42_chamfered"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.99")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -8.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e888acc0-ac57-4c9e-96c3-dcabb490d53d")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.3)
+			)
+		)
+	)
+	(property "Value" "125x42"
+		(at 0 -3.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bd875331-426d-4f34-956e-de23719c5902")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "afabaab0-214d-462e-82b0-63184548bc57")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9888a225-5c47-4d3b-ad55-89a7ccbcac86")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -62.5 16)
+		(end -62.5 -13.5)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4a8540b6-bdde-4b1d-8d41-bb8d87e45035")
+	)
+	(fp_line
+		(start -62.5 16)
+		(end -62.5 21)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "fb646d53-a341-44fe-acbd-ca6febdacc93")
+	)
+	(fp_line
+		(start -62.5 21)
+		(end -55.5 21)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "bfca518a-b540-4142-bc32-82428a6b0080")
+	)
+	(fp_line
+		(start -55 -21)
+		(end -62.5 -13.5)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "afd0350f-8a7e-42af-a08e-2451bb2a4e82")
+	)
+	(fp_line
+		(start 55 -21)
+		(end -55 -21)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "38ad59ae-7f4f-45a2-be82-2ce3c86597bd")
+	)
+	(fp_line
+		(start 55 -21)
+		(end 62.5 -13.5)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2b236e2b-de39-466f-8384-d16d9a2d02a6")
+	)
+	(fp_line
+		(start 57.5 21)
+		(end -57.5 21)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "0a686f4d-4999-4195-9c3e-be48c2dd3b30")
+	)
+	(fp_line
+		(start 57.5 21)
+		(end 62.5 21)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "eb507463-fdb7-45cf-8d2a-30bdf7eae208")
+	)
+	(fp_line
+		(start 62.5 16)
+		(end 62.5 -13.5)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "21f45b2c-a093-4788-92be-c1168d405c07")
+	)
+	(fp_line
+		(start 62.5 16)
+		(end 62.5 21)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "991d4431-1c07-49aa-8a8c-2afec2cf0452")
+	)
+	(fp_text user "-"
+		(at 58.5 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c121cbaa-3247-4808-b1af-786f34980c96")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "+"
+		(at -60.5 -1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f4714b7f-5276-4f2a-8db6-acf7762e0662")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(pad "1" smd rect
+		(at -59.5 3)
+		(size 6 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "68b59f7f-de8f-47f1-aee7-25236dd92000")
+	)
+	(pad "2" smd rect
+		(at 59.5 3)
+		(size 6 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "19aefa47-b7bc-4aa6-8301-92bcae1329a4")
+	)
+	(embedded_fonts no)
+	(model "C:/kicad_libs/personal_lib/3D/solar_cell_125x42 v1.step"
+		(offset
+			(xyz 62.5 -21 0.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -180 -0)
+		)
+	)
+)

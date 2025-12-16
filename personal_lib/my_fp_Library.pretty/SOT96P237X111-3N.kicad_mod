@@ -1,7 +1,7 @@
 (footprint "SOT96P237X111-3N"
 	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "9.99")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "SOT−23 (TO−236)-+")
 	(tags "MOSFET (N-Channel)")
@@ -53,55 +53,16 @@
 		)
 	)
 	(attr smd)
-	(fp_line
-		(start -1.675 -1.505)
-		(end -0.425 -1.505)
+	(fp_rect
+		(start -0.7 -1.5)
+		(end 0.7 1.5)
 		(stroke
-			(width 0.2)
-			(type solid)
+			(width 0.1)
+			(type default)
 		)
+		(fill no)
 		(layer "F.SilkS")
-		(uuid "024bffad-501a-42ad-be95-a1c2ea2df373")
-	)
-	(fp_line
-		(start -0.075 -1.46)
-		(end 0.075 -1.46)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "107da138-2668-49df-a208-ea007e135f44")
-	)
-	(fp_line
-		(start -0.075 1.46)
-		(end -0.075 -1.46)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "b505a25e-044c-4172-a57a-2ded119ac24b")
-	)
-	(fp_line
-		(start 0.075 -1.46)
-		(end 0.075 1.46)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "2c225ee6-c0fd-4be7-8e3f-27031596648d")
-	)
-	(fp_line
-		(start 0.075 1.46)
-		(end -0.075 1.46)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "1533746a-5758-4a28-b653-7577e47956a1")
+		(uuid "0bf349ee-e777-4e5d-8263-bc1309af0382")
 	)
 	(fp_line
 		(start -1.925 -1.77)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AONS66614
+D 60V N-Channel AlphaSGT TM
+K
+F https://4donline.ihs.com/images/VipMasterIC/IC/ALOM/ALOM-S-A0020443660/ALOM-S-A0020443776-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
+$ENDCMP
+#
+#End Doc Library

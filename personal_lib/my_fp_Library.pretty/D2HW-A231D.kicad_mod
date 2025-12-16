@@ -1,0 +1,129 @@
+(footprint "D2HW-A231D"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.1 -5.3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "60c48a26-d3aa-4f12-8c09-1d07ca1ca0db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "D2HW-A231D"
+		(at 0.3 5.6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1c919ea3-bcc3-4c2b-9784-b0301cdf8f8e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b44634e8-c4cb-4794-922d-8d54fd5de06c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "79f1c58b-fd4d-43d6-9458-7eed487c3e86")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -6.65 -2.65)
+		(end 6.65 2.65)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "0f63e167-f72b-49d8-89f7-21325faa963d")
+	)
+	(fp_text user "1"
+		(at 4.6 -1.1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "39c944f8-2d4f-456e-9efb-7b8db9758ef3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.3 7.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2b3fde70-6dcc-43aa-997d-17f209a3b3f7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 5.08 0)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ed0f4259-7915-451c-988f-a9c9e69eab5c")
+	)
+	(pad "2" thru_hole circle
+		(at -5.08 0)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "69b322d1-7f36-456b-a892-1661eea870ae")
+	)
+	(pad "3" thru_hole circle
+		(at 0 0)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "91f63fea-791d-468e-a134-d9f15b894c6f")
+	)
+	(embedded_fonts no)
+	(model "C:/kicad_libs/personal_lib/3D/D2HW-A231D.stp"
+		(offset
+			(xyz 5.06 0 -0.05)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PMEG3050EP,115
+D NXP PMEG3050EP,115 SMT Schottky Diode, 30V 5A, 2-Pin SOD-128
+K
+F https://assets.nexperia.com/documents/data-sheet/PMEG3050EP.pdf
+$ENDCMP
+#
+#End Doc Library

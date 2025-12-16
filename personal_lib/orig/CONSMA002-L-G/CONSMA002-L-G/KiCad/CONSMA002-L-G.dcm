@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONSMA002-L-G
+D Body Features: Cable Connector Orientation Right Angle | Body Material Finish Plated | Body Plating Material Gold | Body Material Brass | Configuration Features: Number of Positions 1 | Number of Coaxial Contacts 1 | PCB Mount Orientation Right Angle | Contact Features: RF Connector Center Contact Plating Material Gold | RF Connector Center Contact Material Beryllium Copper | Electrical Characteristics: Impedance 50 OHM | Mechanical Attachment: RF Connector Coupling Mechanism Threaded | Detent Without | RF 
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=CONSMA002-L-G&DocType=Data%20Sheet&DocLang=English&PartCntxt=CONSMA002-L-G&DocFormat=pdf
+$ENDCMP
+#
+#End Doc Library

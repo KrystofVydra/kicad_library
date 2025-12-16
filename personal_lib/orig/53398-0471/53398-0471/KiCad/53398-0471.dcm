@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 53398-0471
+D 4 way straight SMT header,1.25mm pitch Molex PICOBLADE Series, Series Number 53398, 1.25mm Pitch 4 Way 1 Row Straight PCB Header, Solder Termination, 1A
+K
+F http://www.molex.com/webdocs/datasheets/pdf/en-us/0533980471_PCB_HEADERS.pdf
+$ENDCMP
+#
+#End Doc Library
