@@ -380,7 +380,7 @@
 		(uuid "c01cb117-e942-4c5a-850f-c407a07ae58b")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/USB-C_SMD-TYPE-C-31-M-12_1.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/USB-C_SMD-TYPE-C-31-M-12_1.wrl"
 		(offset
 			(xyz 0 -2.2 0)
 		)

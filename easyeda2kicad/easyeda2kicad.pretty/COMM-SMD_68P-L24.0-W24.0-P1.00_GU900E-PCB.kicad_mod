@@ -103,7 +103,7 @@
 	(fp_line (start -12.00 -12.00) (end -12.00 12.00) (layer F.CrtYd) (width 0.05))
 	(fp_poly (pts (xy -9.398000 -8.890000) (xy -10.287000 -8.001000) (xy -9.398000 -7.112000) (xy -9.398000 -8.890000)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
 	(fp_poly (pts (xy -10.414000 -12.000001) (xy -12.000001 -12.000001) (xy -12.000001 -10.414000) (xy -10.414000 -12.000001)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/COMM-SMD_68P-L24.0-W24.0-P1.00_GU900E-PCB.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/COMM-SMD_68P-L24.0-W24.0-P1.00_GU900E-PCB.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

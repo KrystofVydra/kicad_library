@@ -173,7 +173,7 @@
 		(uuid "cacb6e1f-bc50-45bf-8071-71d6a1f1e9a2")
 	)
 	(embedded_fonts no)
-	(model "C:/users/kryst/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/BUZ-SMD_3P-L5.0-W5.0-H3.0-P3.4.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/BUZ-SMD_3P-L5.0-W5.0-H3.0-P3.4.wrl"
 		(offset
 			(xyz 0 0.04 -0)
 		)

@@ -208,7 +208,7 @@
 		(uuid "e8cdb23c-2635-4b5e-bb42-4b7585d0dd79")
 	)
 	(embedded_fonts no)
-	(model "C:/users/kryst/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED-SMD_4P-L5.0-W5.0-BL_XL-5050RGBC.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED-SMD_4P-L5.0-W5.0-BL_XL-5050RGBC.wrl"
 		(offset
 			(xyz 0 -0 -0)
 		)

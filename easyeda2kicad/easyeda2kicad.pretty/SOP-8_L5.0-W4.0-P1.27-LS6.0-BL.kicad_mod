@@ -194,7 +194,7 @@
 		(uuid "221485d3-74c3-45d5-acfa-329ef2a01eeb")
 	)
 	(embedded_fonts no)
-	(model "/Users/krystofvydra/Documents/KiCad/kicad_library/easyeda2kicad/easyeda2kicad.3dshapes/SOP-8_L5.0-W4.0-H1.8-LS6.2-P1.27.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SOP-8_L5.0-W4.0-H1.8-LS6.2-P1.27.wrl"
 		(offset
 			(xyz 0 0 -0.12)
 		)

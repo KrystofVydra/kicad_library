@@ -31,7 +31,7 @@
 	(fp_circle (center 1.25 2.50) (end 1.43 2.50) (layer F.Fab) (width 0.35))
 	(fp_circle (center -3.55 -6.06) (end -2.97 -6.06) (layer F.Fab) (width 1.15))
 	(fp_circle (center -3.55 6.04) (end -2.97 6.04) (layer F.Fab) (width 1.15))
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/RJ11-TH_DS1133-S60BPX.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/RJ11-TH_DS1133-S60BPX.wrl"
 		(offset (xyz -3.050 0.010 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

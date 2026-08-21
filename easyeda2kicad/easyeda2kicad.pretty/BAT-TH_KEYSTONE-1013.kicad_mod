@@ -250,7 +250,7 @@
 		(uuid "3f3c46e7-568e-4a51-980a-4b04cb895c46")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/BAT-TH_L59.9-W30.0-H14.8-P54.86.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/BAT-TH_L59.9-W30.0-H14.8-P54.86.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

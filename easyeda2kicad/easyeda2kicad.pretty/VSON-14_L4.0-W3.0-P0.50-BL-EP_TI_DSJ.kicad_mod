@@ -48,7 +48,7 @@
 	(fp_line (start -2.00 -1.50) (end 2.00 -1.50) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 2.00 -1.50) (end 2.00 1.50) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 2.00 1.50) (end -2.00 1.50) (layer F.CrtYd) (width 0.05))
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/VSON-14_L4.0-W3.0-H1.0-P0.50.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/VSON-14_L4.0-W3.0-H1.0-P0.50.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 270))

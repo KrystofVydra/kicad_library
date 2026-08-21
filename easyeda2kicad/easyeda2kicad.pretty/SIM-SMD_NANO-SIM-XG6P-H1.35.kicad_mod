@@ -38,7 +38,7 @@
 	(fp_poly (pts (xy 3.349981 -0.050013) (xy 5.049977 -0.050013) (xy 5.049977 -0.050013) (xy 4.199992 0.899998) (xy 3.349981 -0.050013)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
 	(fp_poly (pts (xy -3.850005 2.652065) (xy -5.550002 2.652065) (xy -5.550002 2.652065) (xy -4.700067 1.702105) (xy -3.850005 2.652065)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
 	(fp_poly (pts (xy -4.499991 2.602052) (xy -4.500016 4.302074) (xy -4.900066 4.302074) (xy -4.899990 2.602001) (xy -4.499991 2.602052)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/SIM-SMD_NANO-SIM-XG6P-H1.35.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SIM-SMD_NANO-SIM-XG6P-H1.35.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

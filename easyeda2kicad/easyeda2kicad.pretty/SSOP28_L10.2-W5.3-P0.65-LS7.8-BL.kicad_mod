@@ -303,7 +303,7 @@
 		(uuid "86c8c0cc-6f30-48e8-92fc-aab7ee14d1aa")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/SSOP28_L10.2-W5.3-P0.65-LS7.8-BL.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SSOP28_L10.2-W5.3-P0.65-LS7.8-BL.wrl"
 		(offset
 			(xyz 0 0 -0)
 		)

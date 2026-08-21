@@ -47,7 +47,7 @@
 	(fp_line (start 2.25 -1.75) (end 2.25 1.75) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 2.25 1.75) (end -2.25 1.75) (layer F.CrtYd) (width 0.05))
 	(fp_line (start -2.25 1.75) (end -2.25 -1.75) (layer F.CrtYd) (width 0.05))
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/VQFN-20_L4.5-W3.5-H1.0-P0.50-BL-EP.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/VQFN-20_L4.5-W3.5-H1.0-P0.50-BL-EP.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 270))

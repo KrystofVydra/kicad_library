@@ -23,7 +23,7 @@
 	(fp_circle (center -7.40 2.65) (end -7.37 2.65) (layer F.Fab) (width 0.06))
 	(fp_circle (center -6.75 0.00) (end -6.42 0.00) (layer F.Fab) (width 0.65))
 	(fp_circle (center 6.75 0.00) (end 7.08 0.00) (layer F.Fab) (width 0.65))
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/DO-201AD_BD5.3-L9.5-P13.50-D1.4-RD.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/DO-201AD_BD5.3-L9.5-P13.50-D1.4-RD.wrl"
 		(offset (xyz 0.000 -0.000 5.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

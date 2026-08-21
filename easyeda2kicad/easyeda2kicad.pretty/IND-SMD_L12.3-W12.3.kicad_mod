@@ -24,7 +24,7 @@
 	(fp_arc (start -3.80 -4.28) (end -3.10 -5.10) (angle -177.05) (layer F.SilkS) (width 0.25))
 	(fp_arc (start 3.68 4.40) (end 2.93 5.18) (angle -174.61) (layer F.SilkS) (width 0.25))
 	(fp_arc (start -3.58 4.29) (end -4.53 3.76) (angle -167.43) (layer F.SilkS) (width 0.25))
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/SMD-PIND_L12.5-W12.5-H8.0.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SMD-PIND_L12.5-W12.5-H8.0.wrl"
 		(offset (xyz -0.000 -0.000 -0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

@@ -378,7 +378,7 @@
 		(uuid "34b04705-8b51-4468-b414-60934a6c17c8")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/RJ45-SMD_HC-RJ45-055-4.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/RJ45-SMD_HC-RJ45-055-4.wrl"
 		(offset
 			(xyz 0 -2.85 8.7)
 		)

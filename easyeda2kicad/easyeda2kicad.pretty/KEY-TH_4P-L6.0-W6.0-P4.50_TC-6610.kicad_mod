@@ -156,7 +156,7 @@
 		(uuid "d1956d0b-f545-4f20-a06a-c0726239d3d2")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/KEY-TH_4P-L6.0-W6.0-P4.50_TC-6610.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/KEY-TH_4P-L6.0-W6.0-P4.50_TC-6610.wrl"
 		(offset
 			(xyz 0 -0 0)
 		)

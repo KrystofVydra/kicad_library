@@ -35,7 +35,7 @@
 	(fp_line (start 27.25 -11.20) (end 27.25 11.20) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 27.25 11.20) (end -27.25 11.20) (layer F.CrtYd) (width 0.05))
 	(fp_line (start -27.25 11.20) (end -27.25 -11.20) (layer F.CrtYd) (width 0.05))
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/BAT-SMD_BH-AAA-B5AA001.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/BAT-SMD_BH-AAA-B5AA001.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

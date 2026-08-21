@@ -370,7 +370,7 @@
 		(uuid "2c5dff1e-596c-4149-91eb-0b8012cc19af")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/BAT-SMD_L82.5-W25-BH-21700-B1BJ001.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/BAT-SMD_L82.5-W25-BH-21700-B1BJ001.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

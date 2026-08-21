@@ -204,7 +204,7 @@
 		(uuid "9c0194db-743f-48bc-adbe-5d2330ff58db")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/SOIC-8_L4.9-W3.9-H1.7-LS6.0-P1.27.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SOIC-8_L4.9-W3.9-H1.7-LS6.0-P1.27.wrl"
 		(offset
 			(xyz 0 0 -0)
 		)

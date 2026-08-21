@@ -53,7 +53,7 @@
 	(fp_poly (pts (xy -7.400087 6.649949) (xy -7.800035 6.649949) (xy -7.800035 8.549919) (xy -7.400087 8.549970) (xy -7.400087 6.649949)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
 	(fp_poly (pts (xy -6.650076 7.799959) (xy -6.650076 7.399960) (xy -8.550046 7.399960) (xy -8.550046 7.799959) (xy -6.650076 7.799959)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
 	(fp_poly (pts (xy 6.649847 7.400087) (xy 6.649847 7.800086) (xy 8.549869 7.800086) (xy 8.549869 7.400087) (xy 6.649847 7.400087)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/BAT-SMD_BH-AA-B5BA015.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/BAT-SMD_BH-AA-B5BA015.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

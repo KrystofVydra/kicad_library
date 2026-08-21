@@ -22,7 +22,7 @@
 	(fp_line (start 2.00 2.00) (end -2.00 2.00) (layer F.CrtYd) (width 0.05))
 	(fp_line (start -2.00 2.00) (end -2.00 -2.00) (layer F.CrtYd) (width 0.05))
 	(fp_poly (pts (xy 2.499995 -1.899996) (xy 2.499995 1.999996) (xy 2.699995 1.999996) (xy 2.799994 1.999996) (xy 2.799994 -1.899996) (xy 2.499995 -1.899996)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/IND-SMD_L4.0-W4.0_XFL4020-102MEB.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/IND-SMD_L4.0-W4.0_XFL4020-102MEB.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

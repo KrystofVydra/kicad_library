@@ -231,7 +231,7 @@
 		(uuid "6bc3867f-c9ea-49c7-a135-3aed5264eea5")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/CONN-TH_6P-P2.50_ZX-XH2.54-6PWZ.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/CONN-TH_6P-P2.50_ZX-XH2.54-6PWZ.wrl"
 		(offset
 			(xyz 0 -3.5 2.8)
 		)

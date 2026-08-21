@@ -197,7 +197,7 @@
 		(uuid "4780c40e-17f2-4f94-bf7c-5c364fef8760")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/IND-SMD_L7.0-W6.6-H5.0_MCW-0650-220.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/IND-SMD_L7.0-W6.6-H5.0_MCW-0650-220.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -321,7 +321,7 @@
 		(uuid "ce9e93a3-290a-4393-b5ee-5973a183b44b")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/FPC-SMD_24P-P0.50_FPC-05F-24PH20.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/FPC-SMD_24P-P0.50_FPC-05F-24PH20.wrl"
 		(offset
 			(xyz -0 1 -0)
 		)

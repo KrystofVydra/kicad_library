@@ -35,7 +35,7 @@
 	(fp_line (start 1.00 -1.10) (end 1.00 1.10) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 1.00 1.10) (end -1.00 1.10) (layer F.CrtYd) (width 0.05))
 	(fp_poly (pts (xy -1.143051 2.084527) (xy -1.143051 1.471320) (xy -1.143051 2.084527)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/WSON-10_L2.2-W2.0-P0.40-BL-EP_TI_DLH0010A.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/WSON-10_L2.2-W2.0-P0.40-BL-EP_TI_DLH0010A.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 270))

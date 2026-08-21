@@ -225,7 +225,7 @@
 		(uuid "f2c9d79e-c498-45e5-aebe-20c72d0c41fb")
 	)
 	(embedded_fonts no)
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/R0805_L2.0-W1.3-H0.6.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/R0805_L2.0-W1.3-H0.6.wrl"
 		(offset
 			(xyz 0 0 -0)
 		)

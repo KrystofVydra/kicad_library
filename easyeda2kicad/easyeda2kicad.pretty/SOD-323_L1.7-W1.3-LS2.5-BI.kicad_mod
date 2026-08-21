@@ -30,7 +30,7 @@
 	(fp_line (start 0.85 -0.63) (end 0.85 0.62) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 0.85 0.62) (end -0.85 0.62) (layer F.CrtYd) (width 0.05))
 	(fp_line (start -0.85 0.62) (end -0.85 -0.63) (layer F.CrtYd) (width 0.05))
-	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/SOD-323_L1.7-W1.3-LS2.5-BI.wrl"
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SOD-323_L1.7-W1.3-LS2.5-BI.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))
