@@ -1,0 +1,6 @@
+# easyeda2kicad (and the KiCad symbol editor) rewrite a .bak copy of the whole
+# library on every single run. They are local, auto-regenerated backups -- but
+# tracked they double repo growth and conflict on every cross-machine merge.
+# The files stay on disk, git just stops following them.
+/easyeda2kicad/easyeda2kicad.bak
+/personal_lib/kicad_personal_library.bak
