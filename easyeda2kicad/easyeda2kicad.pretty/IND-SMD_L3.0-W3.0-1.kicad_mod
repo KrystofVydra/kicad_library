@@ -1,0 +1,119 @@
+(footprint "IND-SMD_L3.0-W3.0-1"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(uuid "bd454f93-998f-4fff-8cb2-c676d160d2f3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "IND-SMD_L3.0-W3.0-1"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "80194fed-05b7-4300-8601-42c76d952bc9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aab35c8d-b6f4-4cd5-a252-41fe6ba06ced")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e50467f4-c66c-4864-9283-f0b9f27d35cd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.52 -1.65)
+		(end 1.52 -1.65)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1defc9db-efef-410c-b163-c7055cda24a9")
+	)
+	(fp_line
+		(start 1.52 1.65)
+		(end -1.52 1.65)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c509b051-a209-4c43-a6dd-35d007901f00")
+	)
+	(fp_circle
+		(center 1.5 -1.5)
+		(end 1.53 -1.5)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "ab936f54-8887-458c-a317-ce2e542f38c6")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "db153dff-427d-4944-9d06-09be923fbb48")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.15 0 180)
+		(size 1 2.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8bad1fe0-4734-418f-a056-7210ceb04d18")
+	)
+	(pad "2" smd rect
+		(at 1.15 0 180)
+		(size 1 2.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0579f14b-dac8-49b4-863f-cf26b3b82cd1")
+	)
+	(embedded_fonts no)
+	(model "C:/kicad_libs/easyeda2kicad/easyeda2kicad.3dshapes/IND-SMD_L3.0-W3.0-1.wrl"
+		(offset
+			(xyz 0 -0 1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
