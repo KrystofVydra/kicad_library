@@ -1,35 +1,158 @@
-(module easyeda2kicad:LED0603-R-RD_ORANGE (layer F.Cu) (tedit 5DC5F6A4)
+(footprint "LED0603-R-RD_ORANGE"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(uuid "7a7435cf-82af-411e-b5b8-f1858dd974c9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LED0603-R-RD_ORANGE"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "9cba517d-6991-4a4c-a90b-7c3201f3e124")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5745779b-b7ab-4a9f-a416-041ccc08f9a0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "58d9bb60-a787-4f2d-bb12-e6946acad979")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "LCSC Part" "C965800"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "157327e9-5b92-49b6-b14c-ad42ecd87257")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
 	(attr smd)
-	(fp_text reference REF** (at 0.000 -4.000) (layer F.SilkS)
-		(effects (font (size 1 1) (thickness 0.15)))
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start 0.08 0.01)
+		(end -0.1 0.01)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "59e72807-e4f1-45de-ac86-e5419bea1eba")
 	)
-	(fp_text value LED0603-R-RD_ORANGE (at 0.000 4.000) (layer F.Fab)
-		(effects (font (size 1 1) (thickness 0.15)))
+	(fp_line
+		(start 0.08 0.41)
+		(end 0.08 -0.38)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5054096a-91e5-4938-a1af-ad0e4094907e")
 	)
-	(fp_text user %R (at 0 0) (layer F.Fab)
-		(effects (font (size 1 1) (thickness 0.15)))
+	(fp_line
+		(start -0.8 -0.4)
+		(end 0.8 -0.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7967b1c0-02c1-42a7-921b-6e249c09d7c2")
 	)
-	(property "LCSC Part" "C965800")
-	(fp_line (start 1.77 0.86) (end 1.77 -0.86) (layer F.SilkS) (width 0.25))
-	(fp_line (start 1.77 -0.86) (end 0.29 -0.86) (layer F.SilkS) (width 0.25))
-	(fp_line (start 1.77 0.86) (end 0.29 0.86) (layer F.SilkS) (width 0.25))
-	(fp_line (start -0.29 -0.86) (end -1.46 -0.86) (layer F.SilkS) (width 0.25))
-	(fp_line (start -0.32 0.86) (end -1.46 0.86) (layer F.SilkS) (width 0.25))
-	(fp_line (start -1.46 0.86) (end -1.82 0.51) (layer F.SilkS) (width 0.25))
-	(fp_line (start -1.82 0.51) (end -1.82 -0.51) (layer F.SilkS) (width 0.25))
-	(fp_line (start -1.82 -0.51) (end -1.46 -0.86) (layer F.SilkS) (width 0.25))
-	(fp_line (start 0.08 0.41) (end 0.08 -0.38) (layer F.SilkS) (width 0.20))
-	(fp_line (start 0.08 0.01) (end -0.10 0.01) (layer F.SilkS) (width 0.20))
-	(pad 1 smd rect (at 0.85 0.00 90.00) (size 0.800 0.800) (layers F.Cu F.Paste F.Mask))
-	(pad 2 smd rect (at -0.85 0.00 90.00) (size 0.800 0.800) (layers F.Cu F.Paste F.Mask))
-	(fp_circle (center 0.80 -0.40) (end 0.83 -0.40) (layer F.SilkS) (width 0.06))
-	(fp_line (start -0.80 -0.40) (end 0.80 -0.40) (layer F.CrtYd) (width 0.05))
-	(fp_line (start 0.80 -0.40) (end 0.80 0.40) (layer F.CrtYd) (width 0.05))
-	(fp_line (start 0.80 0.40) (end -0.80 0.40) (layer F.CrtYd) (width 0.05))
-	(fp_line (start -0.80 0.40) (end -0.80 -0.40) (layer F.CrtYd) (width 0.05))
+	(fp_line
+		(start -0.8 0.4)
+		(end -0.8 -0.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3191f0a7-8f52-41aa-b15b-0464cc75a111")
+	)
+	(fp_line
+		(start 0.8 -0.4)
+		(end 0.8 0.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "768f6ecf-56ac-446e-8116-8a332c84e149")
+	)
+	(fp_line
+		(start 0.8 0.4)
+		(end -0.8 0.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d8a16f1d-931f-4077-926d-4af265063a24")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "3912b932-33d7-40c6-b04c-1a1ccfb92005")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0.85 0 90)
+		(size 0.8 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "bacb9d6d-0a64-4964-85bd-2718f91a9a59")
+	)
+	(pad "2" smd rect
+		(at -0.85 0 90)
+		(size 0.8 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4c3a0b1c-2553-4b04-8caf-f1d0d97db488")
+	)
+	(embedded_fonts no)
 	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603-RD_ORANGE.wrl"
-		(offset (xyz 0.000 0.000 0.000))
-		(scale (xyz 1 1 1))
-		(rotate (xyz 0 0 0))
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
 	)
 )
