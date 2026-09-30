@@ -42450,4 +42450,166 @@
 		)
 		(embedded_fonts no)
 	)
+
+  (symbol "BAT54C_C916424"
+    (exclude_from_sim no)
+    (in_bom yes)
+    (on_board yes)
+    (property
+      "Reference"
+      "D"
+      (at 0 11.43 0)
+      (effects (font (size 1.27 1.27) ))
+    )
+    (property
+      "Value"
+      "BAT54C_C916424"
+      (at 0 -11.43 0)
+      (effects (font (size 1.27 1.27) ))
+    )
+    (property
+      "Footprint"
+      "easyeda2kicad:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
+      (at 0 -13.97 0)
+      (hide yes)
+      (effects (font (size 1.27 1.27) ))
+    )
+    (property
+      "Datasheet"
+      "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_JSMSEMI-BAT54C_C916424.html"
+      (at 0 -16.51 0)
+      (hide yes)
+      (effects (font (size 1.27 1.27) ))
+    )
+    (property
+      "Manufacturer"
+      "JSMSEMI(杰盛微)"
+      (at 0 -19.05 0)
+      (hide yes)
+      (effects (font (size 1.27 1.27) ))
+    )
+    (property
+      "MPN"
+      "BAT54C"
+      (at 0 -21.59 0)
+      (hide yes)
+      (effects (font (size 1.27 1.27) ))
+    )
+    (property
+      "LCSC Part"
+      "C916424"
+      (at 0 -24.13 0)
+      (hide yes)
+      (effects (font (size 1.27 1.27) ))
+    )
+    (property
+      "ki_keywords"
+      "Schottky Barrier Diodes (SBD)"
+      (at 0 -26.67 0)
+      (hide yes)
+      (effects (font (size 1.27 1.27) ))
+    )
+    (symbol "BAT54C_C916424_0_1"
+      (rectangle
+        (start -5.08 3.81)
+        (end 5.08 -3.81)
+        (stroke (width 0) (type default))
+        (fill (type background))
+      )
+      (circle
+        (center -4.32 -3.05)
+        (radius 0.38)
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 4.06 -1.27) (xy 2.54 1.27) (xy 1.02 -1.27) (xy 4.06 -1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type background))
+      )
+      (polyline
+        (pts
+          (xy -1.02 -1.27) (xy -2.54 1.27) (xy -4.06 -1.27) (xy -1.02 -1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type background))
+      )
+      (polyline
+        (pts
+          (xy 0.00 2.54) (xy 2.54 2.54) (xy 2.54 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.54 -2.54) (xy 2.54 -1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.54 1.27) (xy 4.57 1.27) (xy 4.57 1.78) (xy 4.32 1.78)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.54 1.27) (xy 0.51 1.27) (xy 0.51 0.76) (xy 0.76 0.76)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 1.27) (xy -2.54 2.54) (xy 0.00 2.54)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 -2.54) (xy -2.54 -1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 1.27) (xy -4.57 1.27) (xy -4.57 0.76) (xy -4.32 0.76)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54 1.27) (xy -0.51 1.27) (xy -0.51 1.78) (xy -0.76 1.78)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (pin unspecified line
+        (at -2.54 -6.35 90)
+        (length 3.81)
+        (name "1" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at 0.00 6.35 270)
+        (length 3.81)
+        (name "3" (effects (font (size 1.27 1.27))))
+        (number "3" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at 2.54 -6.35 90)
+        (length 3.81)
+        (name "2" (effects (font (size 1.27 1.27))))
+        (number "2" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
 )
