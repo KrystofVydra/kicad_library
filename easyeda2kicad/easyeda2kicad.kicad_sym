@@ -19339,6 +19339,233 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "HNB09A05"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "BUZZER"
+			(at 0 6.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HNB09A05"
+			(at 0 -6.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:BUZ-TH_BD9.6-P5.00-D0.7-FD"
+			(at 0 -8.89 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Buzzers_HNB09A05_C96493.html"
+			(at 0 -11.43 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "华能"
+			(at 0 -13.97 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "HNB09A05"
+			(at 0 -16.51 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C96493"
+			(at 0 -19.05 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "Buzzers"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "HNB09A05_0_1"
+			(polyline
+				(pts
+					(xy -1.27 1.78) (xy -1.27 -1.78)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 1.78) (xy 1.27 1.78)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 -1.78) (xy 1.27 -1.78)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 1.78) (xy 1.27 -1.78)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -1.78) (xy 3.56 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.56 3.81) (xy 1.27 1.78)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.56 3.81) (xy 3.56 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin unspecified line
+				(at -3.81 1.27 0)
+				(length 2.54)
+				(name "+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -3.81 -1.27 0)
+				(length 2.54)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "HV1J566M1010PZ"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33365,6 +33592,334 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "TPCA8123,L1Q"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "Q"
+			(at 0 12.7 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TPCA8123,L1Q"
+			(at 0 -10.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:POWERVDFN-8_L6.0-W5.0-P1.27-BL"
+			(at 0 -12.7 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_TOSHIBA_TPCA8123-L1Q_TOSHIBA-TPCA8123-L1Q_C180399.html"
+			(at 0 -15.24 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TOSHIBA(东芝)"
+			(at 0 -17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TPCA8123,L1Q"
+			(at 0 -20.32 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C180399"
+			(at 0 -22.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "MOSFETs"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "TPCA8123,L1Q_0_1"
+			(polyline
+				(pts
+					(xy -1.016 1.905) (xy -1.016 -1.905)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.016 0) (xy -3.81 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.508 2.286) (xy -0.508 1.27)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.508 1.778) (xy 2.032 1.778) (xy 2.032 -1.778) (xy -0.508 -1.778)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.508 0.508) (xy -0.508 -0.508)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.508 -1.27) (xy -0.508 -2.286)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 0.381 0)
+				(radius 2.794)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.016 0) (xy 0 0.381) (xy 0 -0.381) (xy 1.016 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 2.54) (xy 1.27 1.778)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 1.27 1.778)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center 1.27 -1.778)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -2.54) (xy 1.27 0) (xy -0.508 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.524 -0.508) (xy 1.651 -0.381) (xy 2.413 -0.381) (xy 2.54 -0.254)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.032 -0.381) (xy 1.651 0.254) (xy 2.413 0.254) (xy 2.032 -0.381)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "TPCA8123,L1Q_1_1"
+			(pin input line
+				(at -6.35 0 0)
+				(length 2.54)
+				(name "G"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 1.27 -5.08 90)
+				(length 2.54)
+				(name "S"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 1.27 5.08 270)
+				(length 2.54)
+				(name "D"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "TPS2116DRLR"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43204,253 +43759,93 @@
 		(embedded_fonts no)
 	)
 
-  (symbol "HNB09A05"
+  (symbol "WS2812D-F5-12MA-C1"
     (exclude_from_sim no)
     (in_bom yes)
     (on_board yes)
     (property
       "Reference"
-      "BUZZER"
-      (at 0 6.35 0)
+      "LED"
+      (at 0 8.89 0)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "Value"
-      "HNB09A05"
-      (at 0 -6.35 0)
+      "WS2812D-F5-12MA-C1"
+      (at 0 -8.89 0)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "Footprint"
-      "easyeda2kicad:BUZ-TH_BD9.6-P5.00-D0.7-FD"
-      (at 0 -8.89 0)
-      (hide yes)
-      (effects (font (size 1.27 1.27) ))
-    )
-    (property
-      "Datasheet"
-      "https://lcsc.com/product-detail/Buzzers_HNB09A05_C96493.html"
+      "easyeda2kicad:LED-TH_4P-BD5.8-P1.27_WS2812D-F5-12MA-C1"
       (at 0 -11.43 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
-      "Manufacturer"
-      "华能"
+      "Datasheet"
+      "https://www.lcsc.com/datasheet/C4154875.pdf"
       (at 0 -13.97 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
-      "MPN"
-      "HNB09A05"
+      "Manufacturer"
+      "worldsemi"
       (at 0 -16.51 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
-      "LCSC Part"
-      "C96493"
+      "MPN"
+      "WS2812D-F5-12mA-C1"
       (at 0 -19.05 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
-      "ki_keywords"
-      "Buzzers"
+      "LCSC Part"
+      "C4154875"
       (at 0 -21.59 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
-    (symbol "HNB09A05_0_1"
-      (polyline
-        (pts
-          (xy 3.56 3.81) (xy 1.27 1.78)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 1.27 -1.78) (xy 3.56 -3.81)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 3.56 3.81) (xy 3.56 -3.81)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 1.27 1.78) (xy 1.27 -1.78)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -1.27 1.78) (xy -1.27 -1.78)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -1.27 -1.78) (xy 1.27 -1.78)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -1.27 1.78) (xy 1.27 1.78)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (pin unspecified line
-        (at -3.81 1.27 0)
-        (length 2.54)
-        (name "+" (effects (font (size 1.27 1.27))))
-        (number "1" (effects (font (size 1.27 1.27))))
-      )
-      (pin unspecified line
-        (at -3.81 -1.27 0)
-        (length 2.54)
-        (name "2" (effects (font (size 1.27 1.27))))
-        (number "2" (effects (font (size 1.27 1.27))))
-      )
-    )
-  )
-
-  (symbol "TPCA8123,L1Q"
-    (exclude_from_sim no)
-    (in_bom yes)
-    (on_board yes)
-    (property
-      "Reference"
-      "Q"
-      (at 0 12.70 0)
-      (effects (font (size 1.27 1.27) ))
-    )
-    (property
-      "Value"
-      "TPCA8123,L1Q"
-      (at 0 -10.16 0)
-      (effects (font (size 1.27 1.27) ))
-    )
-    (property
-      "Footprint"
-      "easyeda2kicad:POWERVDFN-8_L6.0-W5.0-P1.27-BL"
-      (at 0 -12.70 0)
-      (hide yes)
-      (effects (font (size 1.27 1.27) ))
-    )
-    (property
-      "Datasheet"
-      "https://lcsc.com/product-detail/MOSFET_TOSHIBA_TPCA8123-L1Q_TOSHIBA-TPCA8123-L1Q_C180399.html"
-      (at 0 -15.24 0)
-      (hide yes)
-      (effects (font (size 1.27 1.27) ))
-    )
-    (property
-      "Manufacturer"
-      "TOSHIBA(东芝)"
-      (at 0 -17.78 0)
-      (hide yes)
-      (effects (font (size 1.27 1.27) ))
-    )
-    (property
-      "MPN"
-      "TPCA8123,L1Q"
-      (at 0 -20.32 0)
-      (hide yes)
-      (effects (font (size 1.27 1.27) ))
-    )
-    (property
-      "LCSC Part"
-      "C180399"
-      (at 0 -22.86 0)
-      (hide yes)
-      (effects (font (size 1.27 1.27) ))
-    )
-    (property
-      "ki_keywords"
-      "MOSFETs"
-      (at 0 -25.40 0)
-      (hide yes)
-      (effects (font (size 1.27 1.27) ))
-    )
-    (symbol "TPCA8123,L1Q_0_1"
+    (symbol "WS2812D-F5-12MA-C1_0_1"
       (rectangle
-        (start -3.81 5.08)
-        (end 3.81 -7.62)
+        (start -3.81 6.35)
+        (end 6.35 -6.35)
         (stroke (width 0) (type default))
         (fill (type background))
       )
       (circle
-        (center -3.17 4.44)
+        (center -2.54 5.08)
         (radius 0.38)
         (stroke (width 0) (type default))
         (fill (type none))
       )
       (pin unspecified line
-        (at -6.35 2.54 0)
+        (at -6.35 3.81 0)
         (length 2.54)
-        (name "S" (effects (font (size 1.27 1.27))))
+        (name "Dout" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
       (pin unspecified line
-        (at -6.35 -0.00 0)
+        (at -6.35 1.27 0)
         (length 2.54)
-        (name "S" (effects (font (size 1.27 1.27))))
+        (name "VDD" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
       (pin unspecified line
-        (at -6.35 -2.54 0)
+        (at -6.35 -1.27 0)
         (length 2.54)
-        (name "S" (effects (font (size 1.27 1.27))))
+        (name "GND" (effects (font (size 1.27 1.27))))
         (number "3" (effects (font (size 1.27 1.27))))
       )
       (pin unspecified line
-        (at -6.35 -5.08 0)
+        (at -6.35 -3.81 0)
         (length 2.54)
-        (name "G" (effects (font (size 1.27 1.27))))
+        (name "Din" (effects (font (size 1.27 1.27))))
         (number "4" (effects (font (size 1.27 1.27))))
-      )
-      (pin unspecified line
-        (at 6.35 -5.08 180)
-        (length 2.54)
-        (name "D" (effects (font (size 1.27 1.27))))
-        (number "5" (effects (font (size 1.27 1.27))))
-      )
-      (pin unspecified line
-        (at 6.35 -2.54 180)
-        (length 2.54)
-        (name "D" (effects (font (size 1.27 1.27))))
-        (number "6" (effects (font (size 1.27 1.27))))
-      )
-      (pin unspecified line
-        (at 6.35 -0.00 180)
-        (length 2.54)
-        (name "D" (effects (font (size 1.27 1.27))))
-        (number "7" (effects (font (size 1.27 1.27))))
-      )
-      (pin unspecified line
-        (at 6.35 2.54 180)
-        (length 2.54)
-        (name "D" (effects (font (size 1.27 1.27))))
-        (number "8" (effects (font (size 1.27 1.27))))
-      )
-      (pin unspecified line
-        (at 0.00 7.62 270)
-        (length 2.54)
-        (name "D" (effects (font (size 1.27 1.27))))
-        (number "9" (effects (font (size 1.27 1.27))))
       )
     )
   )
