@@ -15789,6 +15789,197 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "FNR4030S100MT"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "L"
+			(at 0 5.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FNR4030S100MT"
+			(at 0 -5.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:IND-SMD_L4.0-W4.0_FNR40XXS"
+			(at 0 -7.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Power-Inductors_10uH-20_C167879.html"
+			(at 0 -10.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "cjiang(长江微电)"
+			(at 0 -12.7 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "FNR4030S100MT"
+			(at 0 -15.24 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C167879"
+			(at 0 -17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "Power Inductors"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "FNR4030S100MT_0_1"
+			(arc
+				(start -4.29 0.02)
+				(mid -3.28 1.1)
+				(end -2.27 0.02)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.13 0.02)
+				(mid -1.12 1.1)
+				(end -0.11 0.02)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 0.02 0.02)
+				(mid 1.03 1.1)
+				(end 2.04 0.02)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.21 0.02)
+				(mid 3.22 1.1)
+				(end 4.23 0.02)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin unspecified line
+				(at -5.08 0 0)
+				(length 1.27)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 5.08 0 180)
+				(length 1.27)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "FPC-05F-24PH20"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34542,7 +34733,7 @@
 		(symbol "TPS61041DBVR_0_1"
 			(rectangle
 				(start -6.35 10.16)
-				(end 6.35 -11.43)
+				(end 6.35 -8.89)
 				(stroke
 					(width 0)
 					(type default)
@@ -34570,7 +34761,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 8.89 -8.89 180)
+				(at 8.89 -6.35 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -34588,7 +34779,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 8.89 0 180)
+				(at 8.89 3.81 180)
 				(length 2.54)
 				(name "FB"
 					(effects
@@ -34606,7 +34797,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -8.89 -8.89 0)
+				(at -8.89 -6.35 0)
 				(length 2.54)
 				(name "EN"
 					(effects
@@ -43013,104 +43204,125 @@
 		(embedded_fonts no)
 	)
 
-  (symbol "FNR4030S100MT"
+  (symbol "HNB09A05"
     (exclude_from_sim no)
     (in_bom yes)
     (on_board yes)
     (property
       "Reference"
-      "L"
-      (at 0 5.08 0)
+      "BUZZER"
+      (at 0 6.35 0)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "Value"
-      "FNR4030S100MT"
-      (at 0 -5.08 0)
+      "HNB09A05"
+      (at 0 -6.35 0)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "Footprint"
-      "easyeda2kicad:IND-SMD_L4.0-W4.0_FNR40XXS"
-      (at 0 -7.62 0)
+      "easyeda2kicad:BUZ-TH_BD9.6-P5.00-D0.7-FD"
+      (at 0 -8.89 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "Datasheet"
-      "https://lcsc.com/product-detail/Power-Inductors_10uH-20_C167879.html"
-      (at 0 -10.16 0)
+      "https://lcsc.com/product-detail/Buzzers_HNB09A05_C96493.html"
+      (at 0 -11.43 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "Manufacturer"
-      "cjiang(长江微电)"
-      (at 0 -12.70 0)
+      "华能"
+      (at 0 -13.97 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "MPN"
-      "FNR4030S100MT"
-      (at 0 -15.24 0)
+      "HNB09A05"
+      (at 0 -16.51 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "LCSC Part"
-      "C167879"
-      (at 0 -17.78 0)
+      "C96493"
+      (at 0 -19.05 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "ki_keywords"
-      "Power Inductors"
-      (at 0 -20.32 0)
+      "Buzzers"
+      (at 0 -21.59 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
-    (symbol "FNR4030S100MT_0_1"
-      (arc
-        (start -2.27 0.02)
-        (mid -3.28 1.10)
-        (end -4.29 0.02)
+    (symbol "HNB09A05_0_1"
+      (polyline
+        (pts
+          (xy 3.56 3.81) (xy 1.27 1.78)
+        )
         (stroke (width 0) (type default))
         (fill (type none))
       )
-      (arc
-        (start -0.11 0.02)
-        (mid -1.12 1.10)
-        (end -2.13 0.02)
+      (polyline
+        (pts
+          (xy 1.27 -1.78) (xy 3.56 -3.81)
+        )
         (stroke (width 0) (type default))
         (fill (type none))
       )
-      (arc
-        (start 2.04 0.02)
-        (mid 1.03 1.10)
-        (end 0.02 0.02)
+      (polyline
+        (pts
+          (xy 3.56 3.81) (xy 3.56 -3.81)
+        )
         (stroke (width 0) (type default))
         (fill (type none))
       )
-      (arc
-        (start 4.23 0.02)
-        (mid 3.22 1.10)
-        (end 2.21 0.02)
+      (polyline
+        (pts
+          (xy 1.27 1.78) (xy 1.27 -1.78)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.27 1.78) (xy -1.27 -1.78)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.27 -1.78) (xy 1.27 -1.78)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.27 1.78) (xy 1.27 1.78)
+        )
         (stroke (width 0) (type default))
         (fill (type none))
       )
       (pin unspecified line
-        (at 5.08 -0.00 180)
-        (length 1.27)
+        (at -3.81 1.27 0)
+        (length 2.54)
+        (name "+" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at -3.81 -1.27 0)
+        (length 2.54)
         (name "2" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
-      )
-      (pin unspecified line
-        (at -5.08 -0.00 0)
-        (length 1.27)
-        (name "1" (effects (font (size 1.27 1.27))))
-        (number "1" (effects (font (size 1.27 1.27))))
       )
     )
   )
