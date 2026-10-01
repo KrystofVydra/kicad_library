@@ -5756,6 +5756,360 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "BAT54C_C916424"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "D"
+			(at 0 11.43 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAT54C_C916424"
+			(at 0 -11.43 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
+			(at 0 -13.97 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_JSMSEMI-BAT54C_C916424.html"
+			(at 0 -16.51 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "JSMSEMI(杰盛微)"
+			(at 0 -19.05 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BAT54C"
+			(at 0 -21.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C916424"
+			(at 0 -24.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "Schottky Barrier Diodes (SBD)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "BAT54C_C916424_0_1"
+			(polyline
+				(pts
+					(xy -3.175 -1.27) (xy -3.175 1.27) (xy -1.27 0) (xy -3.175 -1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.905 1.27) (xy -1.905 1.016)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.905 0) (xy 1.905 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 1.27) (xy -1.905 1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 1.27) (xy -1.27 -1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 0) (xy -3.81 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 -1.27) (xy -0.635 -1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.635 -1.27) (xy -0.635 -1.016)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 0 0)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0.635 -1.27) (xy 0.635 -1.016)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 1.27) (xy 1.27 -1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 1.27) (xy 1.905 1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -1.27) (xy 0.635 -1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.905 1.27) (xy 1.905 1.016)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.175 -1.27) (xy 3.175 1.27) (xy 1.27 0) (xy 3.175 -1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 3.81 0) (xy 1.27 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "BAT54C_C916424_1_1"
+			(pin passive line
+				(at -7.62 0 0)
+				(length 3.81)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 3.81)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -5.08 90)
+				(length 5.08)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "BH-18650-B6AA002"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42451,164 +42805,106 @@
 		(embedded_fonts no)
 	)
 
-  (symbol "BAT54C_C916424"
+  (symbol "TPS61041DBVR"
     (exclude_from_sim no)
     (in_bom yes)
     (on_board yes)
     (property
       "Reference"
-      "D"
-      (at 0 11.43 0)
+      "U"
+      (at 0 7.62 0)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "Value"
-      "BAT54C_C916424"
-      (at 0 -11.43 0)
+      "TPS61041DBVR"
+      (at 0 -7.62 0)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "Footprint"
-      "easyeda2kicad:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
-      (at 0 -13.97 0)
+      "easyeda2kicad:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR"
+      (at 0 -10.16 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "Datasheet"
-      "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_JSMSEMI-BAT54C_C916424.html"
-      (at 0 -16.51 0)
+      "https://lcsc.com/product-detail/DC-DC-Converters_TI_TPS61041DBVR_TPS61041DBVR_C9846.html"
+      (at 0 -12.70 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "Manufacturer"
-      "JSMSEMI(杰盛微)"
-      (at 0 -19.05 0)
+      "TI(德州仪器)"
+      (at 0 -15.24 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "MPN"
-      "BAT54C"
-      (at 0 -21.59 0)
+      "TPS61041DBVR"
+      (at 0 -17.78 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "LCSC Part"
-      "C916424"
-      (at 0 -24.13 0)
+      "C9846"
+      (at 0 -20.32 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "ki_keywords"
-      "Schottky Barrier Diodes (SBD)"
-      (at 0 -26.67 0)
+      "DC-DC Converters"
+      (at 0 -22.86 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
-    (symbol "BAT54C_C916424_0_1"
+    (symbol "TPS61041DBVR_0_1"
       (rectangle
-        (start -5.08 3.81)
-        (end 5.08 -3.81)
+        (start -6.35 5.08)
+        (end 6.35 -5.08)
         (stroke (width 0) (type default))
         (fill (type background))
       )
       (circle
-        (center -4.32 -3.05)
+        (center -5.08 3.81)
         (radius 0.38)
         (stroke (width 0) (type default))
         (fill (type none))
       )
-      (polyline
-        (pts
-          (xy 4.06 -1.27) (xy 2.54 1.27) (xy 1.02 -1.27) (xy 4.06 -1.27)
-        )
-        (stroke (width 0) (type default))
-        (fill (type background))
-      )
-      (polyline
-        (pts
-          (xy -1.02 -1.27) (xy -2.54 1.27) (xy -4.06 -1.27) (xy -1.02 -1.27)
-        )
-        (stroke (width 0) (type default))
-        (fill (type background))
-      )
-      (polyline
-        (pts
-          (xy 0.00 2.54) (xy 2.54 2.54) (xy 2.54 1.27)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 2.54 -2.54) (xy 2.54 -1.27)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 2.54 1.27) (xy 4.57 1.27) (xy 4.57 1.78) (xy 4.32 1.78)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 2.54 1.27) (xy 0.51 1.27) (xy 0.51 0.76) (xy 0.76 0.76)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -2.54 1.27) (xy -2.54 2.54) (xy 0.00 2.54)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -2.54 -2.54) (xy -2.54 -1.27)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -2.54 1.27) (xy -4.57 1.27) (xy -4.57 0.76) (xy -4.32 0.76)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -2.54 1.27) (xy -0.51 1.27) (xy -0.51 1.78) (xy -0.76 1.78)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
       (pin unspecified line
-        (at -2.54 -6.35 90)
-        (length 3.81)
-        (name "1" (effects (font (size 1.27 1.27))))
+        (at -8.89 2.54 0)
+        (length 2.54)
+        (name "SW" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
       (pin unspecified line
-        (at 0.00 6.35 270)
-        (length 3.81)
-        (name "3" (effects (font (size 1.27 1.27))))
+        (at -8.89 -0.00 0)
+        (length 2.54)
+        (name "GND" (effects (font (size 1.27 1.27))))
+        (number "2" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at -8.89 -2.54 0)
+        (length 2.54)
+        (name "FB" (effects (font (size 1.27 1.27))))
         (number "3" (effects (font (size 1.27 1.27))))
       )
       (pin unspecified line
-        (at 2.54 -6.35 90)
-        (length 3.81)
-        (name "2" (effects (font (size 1.27 1.27))))
-        (number "2" (effects (font (size 1.27 1.27))))
+        (at 8.89 -2.54 180)
+        (length 2.54)
+        (name "EN" (effects (font (size 1.27 1.27))))
+        (number "4" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at 8.89 2.54 180)
+        (length 2.54)
+        (name "VIN" (effects (font (size 1.27 1.27))))
+        (number "5" (effects (font (size 1.27 1.27))))
       )
     )
   )
