@@ -29027,7 +29027,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "Q"
-			(at 0 10.16 0)
+			(at 0 7.366 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29037,7 +29037,7 @@
 			)
 		)
 		(property "Value" "SI2333CDS-T1-GE3"
-			(at 0 -10.16 0)
+			(at 12.7 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29126,7 +29126,19 @@
 		(symbol "SI2333CDS-T1-GE3_0_1"
 			(polyline
 				(pts
-					(xy -2.54 0) (xy -0.51 0)
+					(xy -1.016 1.905) (xy -1.016 -1.905)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.016 0) (xy -3.81 0)
 				)
 				(stroke
 					(width 0)
@@ -29138,7 +29150,19 @@
 			)
 			(polyline
 				(pts
-					(xy -0.51 2.29) (xy -0.51 -2.29)
+					(xy -0.508 2.286) (xy -0.508 1.27)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.508 1.778) (xy 2.032 1.778) (xy 2.032 -1.778) (xy -0.508 -1.778)
 				)
 				(stroke
 					(width 0)
@@ -29150,7 +29174,88 @@
 			)
 			(polyline
 				(pts
-					(xy 0 1.27) (xy 0 2.29)
+					(xy -0.508 0.508) (xy -0.508 -0.508)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -0.508 -1.27) (xy -0.508 -2.286)
+				)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 0.381 0)
+				(radius 2.794)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.016 0) (xy 0 0.381) (xy 0 -0.381) (xy 1.016 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 2.54) (xy 1.27 1.778)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 1.27 1.778)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center 1.27 -1.778)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -2.54) (xy 1.27 0) (xy -0.508 0)
 				)
 				(stroke
 					(width 0)
@@ -29162,7 +29267,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 0) (xy 2.54 0) (xy 2.54 -2.54)
+					(xy 1.524 -0.508) (xy 1.651 -0.381) (xy 2.413 -0.381) (xy 2.54 -0.254)
 				)
 				(stroke
 					(width 0)
@@ -29174,7 +29279,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 -0.51) (xy 0 0.51)
+					(xy 2.032 -0.381) (xy 1.651 0.254) (xy 2.413 0.254) (xy 2.032 -0.381)
 				)
 				(stroke
 					(width 0)
@@ -29184,104 +29289,10 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy 0 -2.29) (xy 0 -1.27)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.78) (xy 0 1.78)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.78) (xy 2.54 2.54) (xy 5.08 2.54) (xy 5.08 0.76)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 0) (xy 1.02 0.51) (xy 1.02 -0.51) (xy 2.54 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 -1.78) (xy 0 -1.78)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 -2.54) (xy 5.08 -2.54) (xy 5.08 -0.51)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 5.08 -0.51) (xy 5.84 0.76) (xy 4.32 0.76) (xy 5.08 -0.51)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-			(polyline
-				(pts
-					(xy 5.84 -0.51) (xy 5.59 -0.51) (xy 4.57 -0.51) (xy 4.32 -0.51)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(pin unspecified line
-				(at -5.08 0 0)
+		)
+		(symbol "SI2333CDS-T1-GE3_1_1"
+			(pin input line
+				(at -6.35 0 0)
 				(length 2.54)
 				(name "G"
 					(effects
@@ -29298,8 +29309,8 @@
 					)
 				)
 			)
-			(pin unspecified line
-				(at 2.54 -5.08 90)
+			(pin passive line
+				(at 1.27 -5.08 90)
 				(length 2.54)
 				(name "S"
 					(effects
@@ -29316,8 +29327,8 @@
 					)
 				)
 			)
-			(pin unspecified line
-				(at 2.54 5.08 270)
+			(pin passive line
+				(at 1.27 5.08 270)
 				(length 2.54)
 				(name "D"
 					(effects
@@ -31429,6 +31440,173 @@
 			(pin unspecified line
 				(at 5.08 0 180)
 				(length 0.762)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "SMF5.0A_C151296"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "D"
+			(at 0 5.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SMF5.0A_C151296"
+			(at 0 -5.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:SOD-123F_L2.8-W1.8-LS3.7-RD"
+			(at 0 -7.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/TVS_Littelfuse_SMF5-0A_Littelfuse-SMF5-0A_C151296.html"
+			(at 0 -10.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Littelfuse(美国力特)"
+			(at 0 -12.7 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SMF5.0A"
+			(at 0 -15.24 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C151296"
+			(at 0 -17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "TVS"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "SMF5.0A_C151296_0_1"
+			(polyline
+				(pts
+					(xy -2.29 2.29) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.25 -2.29)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -1.52) (xy -1.27 0) (xy 1.27 1.78) (xy 1.27 -1.52)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin unspecified line
+				(at -5.08 0 0)
+				(length 3.81)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 5.08 0 180)
+				(length 3.81)
 				(name "2"
 					(effects
 						(font
@@ -48373,32 +48551,32 @@
 		(embedded_fonts no)
 	)
 
-  (symbol "SMF5.0A_C151296"
+  (symbol "0451004.MRL"
     (exclude_from_sim no)
     (in_bom yes)
     (on_board yes)
     (property
       "Reference"
-      "D"
+      "F"
       (at 0 5.08 0)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "Value"
-      "SMF5.0A_C151296"
+      "0451004.MRL"
       (at 0 -5.08 0)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "Footprint"
-      "easyeda2kicad:SOD-123F_L2.8-W1.8-LS3.7-RD"
+      "easyeda2kicad:FUSE-SMD_L6.1-W2.7"
       (at 0 -7.62 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "Datasheet"
-      "https://lcsc.com/product-detail/TVS_Littelfuse_SMF5-0A_Littelfuse-SMF5-0A_C151296.html"
+      "https://lcsc.com/product-detail/Surface-Mount-Fuses_Littelfuse_0451004-MRL_4A-125V_C27515.html"
       (at 0 -10.16 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
@@ -48412,51 +48590,57 @@
     )
     (property
       "MPN"
-      "SMF5.0A"
+      "0451004.MRL"
       (at 0 -15.24 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "LCSC Part"
-      "C151296"
+      "C27515"
       (at 0 -17.78 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
     (property
       "ki_keywords"
-      "TVS"
+      "Fuses"
       (at 0 -20.32 0)
       (hide yes)
       (effects (font (size 1.27 1.27) ))
     )
-    (symbol "SMF5.0A_C151296_0_1"
-      (polyline
-        (pts
-          (xy 1.27 -1.52) (xy -1.27 -0.00) (xy 1.27 1.78) (xy 1.27 -1.52)
-        )
+    (property
+      "Description"
+      "4A 125V"
+      (at 0 -22.86 0)
+      (hide yes)
+      (effects (font (size 1.27 1.27) ))
+    )
+    (symbol "0451004.MRL_0_1"
+      (rectangle
+        (start -2.54 1.02)
+        (end 2.54 -1.02)
         (stroke (width 0) (type default))
         (fill (type background))
       )
       (polyline
         (pts
-          (xy -2.29 2.29) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.25 -2.29)
+          (xy -2.54 -0.00) (xy 2.54 -0.00)
         )
         (stroke (width 0) (type default))
         (fill (type none))
       )
       (pin unspecified line
-        (at 5.08 -0.00 180)
-        (length 3.81)
-        (name "2" (effects (font (size 1.27 1.27))))
-        (number "2" (effects (font (size 1.27 1.27))))
-      )
-      (pin unspecified line
         (at -5.08 -0.00 0)
-        (length 3.81)
+        (length 2.54)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at 5.08 -0.00 180)
+        (length 2.54)
+        (name "2" (effects (font (size 1.27 1.27))))
+        (number "2" (effects (font (size 1.27 1.27))))
       )
     )
   )
